@@ -12,8 +12,9 @@ Each ranking is scored against two sets of labels:
   the near-miss idea with the matcher, so the agent has a built-in advantage on them
 
 Metrics per job, averaged over the 5 jobs: precision@5 (share of the top 5 labelled good) and
-NDCG@10 with gains good = 2, borderline = 1, poor = 0. Against hand labels each ranking is
-restricted to the 10 labelled resumes.
+NDCG@10 with gains good = 2, borderline = 1, poor = 0. "random order" = what a random ranking
+scores on average (exact expectation), the bar every system has to clear. Against hand labels
+each ranking is restricted to the 10 labelled resumes.
 
 Reasons: for all 150 candidates, how many of the LLM's reasons passed `rank.verify` first time,
 after the retry, or were replaced by the plain reason. Writes results/rank_<model>.json.
@@ -60,6 +61,20 @@ def precision_at(labels_in_order: list[str], k: int = 5) -> float:
 def score_ranking(order: list[str], labels: dict[str, str]) -> dict[str, float]:
     ls = [labels[r] for r in order if r in labels]
     return {"precision@5": precision_at(ls), "ndcg@10": ndcg(ls)}
+
+
+def chance(ls: list[str], k_p: int = 5, k_n: int = 10) -> dict[str, float]:
+    """Expected precision@5 and NDCG@10 of a random order: the bar a ranker has to clear."""
+    gains = [2 ** GAIN[lab] - 1 for lab in ls]
+    ideal = sorted(gains, reverse=True)
+    idcg = sum(g / math.log2(i + 2) for i, g in enumerate(ideal[:k_n]))
+    expected_dcg = statistics.mean(gains) * sum(
+        1 / math.log2(i + 2) for i in range(min(k_n, len(ls)))
+    )
+    return {
+        "precision@5": sum(lab == "good" for lab in ls) / len(ls),
+        "ndcg@10": expected_dcg / idcg if idcg else 0.0,
+    }
 
 
 def hand_labels() -> dict[str, str]:
@@ -137,6 +152,13 @@ def run(model: str) -> dict:
             if complete
             else "TBD"
         )
+        if complete:
+            per_job = [
+                chance([labels[r] for r in orders[j.job_id]["agent"] if r in labels]) for j in JOBS
+            ]
+            per_system["random order"] = {
+                m: round(statistics.mean(x[m] for x in per_job), 3) for m in per_job[0]
+            }
         results[label_set] = {
             "resumes": len(labels),
             "ranking": per_system,

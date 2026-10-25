@@ -134,17 +134,22 @@ From `results/match_gemini-3.1-flash-lite.json`. Plain code checks experience, l
 
 ### Ranking and ablation
 
-From `results/rank_gemini-3.1-flash-lite.json`. Each job's candidates ranked three ways: **keyword** (BM25 of the job text over the resume text), **embedding** (`gemini-embedding-001` similarity) and the full **agent** (parse, match, rank). Averaged over the 5 jobs; NDCG gains good = 2, borderline = 1, poor = 0.
+From `results/rank_gemini-3.1-flash-lite.json`. Each job's candidates ranked three ways: **keyword** (BM25 of the job text over the resume text), **embedding** (`gemini-embedding-001` similarity) and the full **agent** (parse, match, rank). Averaged over the 5 jobs; NDCG gains good = 2, borderline = 1, poor = 0. **Random order** is what a shuffled list scores on average: the bar to clear. Against hand labels each ranking is cut down to the 10 labelled resumes per job.
 
 | System | P@5, hand labels | NDCG@10, hand labels | P@5, generator labels | NDCG@10, generator labels |
 |---|---|---|---|---|
-| keyword | TBD | TBD | 0.280 | 0.506 |
-| embedding | TBD | TBD | 0.440 | 0.598 |
-| agent | TBD | TBD | 1.000 | 0.995 |
+| random order | 0.620 | 0.858 | 0.267 | 0.431 |
+| keyword | 0.640 | 0.886 | 0.280 | 0.506 |
+| embedding | 0.560 | 0.776 | 0.440 | 0.598 |
+| agent | 0.760 | 0.906 | 1.000 | 0.995 |
 
-Hand labels: 0 of 50 labelled so far (agreement of the generator's labels with them: TBD); the hand-label columns stay TBD until `make label` is done. **Read the generator-label columns with care:** those labels come from rules that share the near-miss idea with the matcher, so the agent has a built-in advantage there. They show the pipeline does what it was built to do, not that it agrees with a recruiter.
+**Against the hand labels** (50 resumes, labelled by the owner without seeing the generator's label), the agent is best on both measures: precision@5 0.760 against 0.620 for a random order. Keyword search (0.640) is close to chance, and embedding similarity (0.560) is below it.
 
-The agent's tier (shortlist / call / reject) matches the generator's label for 0.820 of the 150 candidates (hand labels: TBD). They disagree both ways: the per-job slack is tighter than the generator's (10% over budget instead of 25%), so the agent rejects some of its borderline candidates, and where the generator rejects anyone with two near misses or gaps, the agent asks for a call.
+The owner and the generator's rule agree on 0.480 of the 50, and the agent's tier matches the owner's label on 0.500. The owner was more lenient: of the resumes labelled good, the agent shortlisted 17, asked for a call on 11 and rejected 3. Most of those calls are for a city or language the resume does not state, which the agent treats as worth a phone call and the owner did not; the rest are small near misses, such as a notice period a little over the limit. Changing that rule to fit these 50 labels would tune the system on its own test set, so it is left as it is.
+
+**Read the generator-label columns with care:** those labels come from rules that share the near-miss idea with the matcher, so the agent has a built-in advantage there. They show the pipeline does what it was built to do, not that it agrees with a recruiter.
+
+The agent's tier (shortlist / call / reject) matches the generator's label for 0.820 of the 150 candidates. They disagree both ways: the per-job slack is tighter than the generator's (10% over budget instead of 25%), so the agent rejects some of its borderline candidates, and where the generator rejects anyone with two near misses or gaps, the agent asks for a call.
 
 **Reasons.** Of 150 reasons, 84.0% passed the grounding check first time, 15.3% after one retry and 0.7% fell back to a plain reason built from the checks. The check rejects a reason that cites nothing, cites a value the resume does not hold, states a number found in neither its citations nor the checks, or guesses gender. It checks citations and numbers, not every word of the sentence.
 

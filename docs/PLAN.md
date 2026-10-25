@@ -8,8 +8,9 @@ coursework. Tick items off as they land.
 - [x] Synthetic generator: 150 resumes, 5 jobs x 30, five messy formats (formal, bullets, prose,
       Hinglish, application form), typos, missing fields, bad PDF extracts
 - [x] Ground truth for every resume + the generator's own fit label (`rubric_fit`)
-- [ ] **Hand-label the 50 sampled resumes** (`make label`), blind to the generator's label
-- [ ] Report agreement between hand labels and the generator's labels
+- [x] **Hand-label the 50 sampled resumes** (`make label`), blind to the generator's label
+- [x] Report agreement between hand labels and the generator's labels (README, from
+      `results/rank_<model>.json`)
 
 ## 2. Parsing node
 - [x] Pick the LLM API: Gemini (`google-genai`), default `gemini-3.1-flash-lite` (free tier;
@@ -54,8 +55,7 @@ coursework. Tick items off as they land.
       candidate the recruiter removed or added
 
 ## 7. Evaluation
-- [ ] Ranking quality (precision@5, NDCG) against the hand labels: code done
-      (`make rank-eval`), numbers TBD until the 50 hand labels exist
+- [x] Ranking quality (precision@5, NDCG) against the hand labels, with a random-order bar
 - [x] Ranking quality against the generator's labels (caveat: shares the near-miss idea)
 - [x] Ablation: keyword match vs embedding similarity vs full agent (`results/rank_<model>.json`)
 - [x] Fairness: identical resumes with only name or college changed (`make fairness-eval`)
@@ -68,4 +68,4 @@ coursework. Tick items off as they land.
 - [x] README results table from generated files (`make report`)
 
 ## Resume bullet
-Written only after section 7 produces real numbers against the hand labels.
+Section 7 has real numbers against the hand labels now; write the bullet from the README.

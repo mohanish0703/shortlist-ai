@@ -105,42 +105,39 @@ def ranking(model: str) -> list[str]:
     gen, hand = s["generator_labels"], s["hand_labels"]
 
     def row(system: str) -> str:
-        g, h = gen["ranking"][system], hand["ranking"][system]
+        g, h = gen["ranking"].get(system, "TBD"), hand["ranking"].get(system, "TBD")
         g_p, g_n = (g["precision@5"], g["ndcg@10"]) if g != "TBD" else ("TBD", "TBD")
         h_p, h_n = (h["precision@5"], h["ndcg@10"]) if h != "TBD" else ("TBD", "TBD")
         return f"| {system} | {_f(h_p)} | {_f(h_n)} | {_f(g_p)} | {_f(g_n)} |"
 
     r = s["reasons"]
     tier = gen["agent_tier_vs_label"]
-    hand_tier = hand["agent_tier_vs_label"]
-    hand_acc = hand_tier if hand_tier == "TBD" else hand_tier["accuracy"]
     return [
         "### Ranking and ablation",
         "",
         f"From `results/{name}`. Each job's candidates ranked three ways: **keyword** (BM25 of "
         "the job text over the resume text), **embedding** (`"
         f"{s['embedding_model']}` similarity) and the full **agent** (parse, match, rank). "
-        "Averaged over the 5 jobs; NDCG gains good = 2, borderline = 1, poor = 0.",
+        "Averaged over the 5 jobs; NDCG gains good = 2, borderline = 1, poor = 0. **Random "
+        "order** is what a shuffled list scores on average: the bar to clear. Against hand "
+        "labels each ranking is cut down to the 10 labelled resumes per job.",
         "",
         "| System | P@5, hand labels | NDCG@10, hand labels | P@5, generator labels "
         "| NDCG@10, generator labels |",
         "|---|---|---|---|---|",
-        *(row(x) for x in ("keyword", "embedding", "agent")),
+        *(row(x) for x in ("random order", "keyword", "embedding", "agent")),
         "",
-        f"Hand labels: {hand['resumes']} of 50 labelled so far (agreement of the generator's "
-        f"labels with them: {_f(s.get('hand_vs_generator_agreement'))}); the hand-label "
-        "columns stay TBD until `make label` is done. **Read the generator-label columns with "
-        "care:** those labels "
-        "come from rules that share the near-miss idea with the matcher, so the agent has a "
-        "built-in advantage there. They show the pipeline does what it was built to do, not "
-        "that it agrees with a recruiter.",
+        *hand_findings(s),
+        "**Read the generator-label columns with care:** those labels come from rules that "
+        "share the near-miss idea with the matcher, so the agent has a built-in advantage "
+        "there. They show the pipeline does what it was built to do, not that it agrees with "
+        "a recruiter.",
         "",
         f"The agent's tier (shortlist / call / reject) matches the generator's label for "
-        f"{_f(tier['accuracy'])} of the 150 candidates (hand labels: {_f(hand_acc)}). They "
-        "disagree both ways: the per-job slack is tighter than the generator's (10% over "
-        "budget instead of 25%), so the agent rejects some of its borderline candidates, and "
-        "where the generator rejects anyone with two near misses or gaps, the agent asks for "
-        "a call.",
+        f"{_f(tier['accuracy'])} of the 150 candidates. They disagree both ways: the per-job "
+        "slack is tighter than the generator's (10% over budget instead of 25%), so the agent "
+        "rejects some of its borderline candidates, and where the generator rejects anyone "
+        "with two near misses or gaps, the agent asks for a call.",
         "",
         f"**Reasons.** Of {r['candidates']} reasons, {r['passed_first_time']:.1%} passed the "
         f"grounding check first time, {r['passed_on_retry']:.1%} after one retry and "
@@ -148,6 +145,39 @@ def ranking(model: str) -> list[str]:
         "check rejects a reason that cites nothing, cites a value the resume does not hold, "
         "states a number found in neither its citations nor the checks, or guesses gender. It "
         "checks citations and numbers, not every word of the sentence.",
+    ]
+
+
+def hand_findings(s: dict) -> list[str]:
+    """What the owner's hand labels say; TBD until all 50 are labelled."""
+    hand = s["hand_labels"]
+    if hand["ranking"]["agent"] == "TBD":
+        return [
+            f"Hand labels: {hand['resumes']} of 50 so far, so those columns stay TBD until "
+            "`make label` is done.",
+            "",
+        ]
+    h, tier = hand["ranking"], hand["agent_tier_vs_label"]
+    conf = tier["confusion_label_vs_agent"]
+    good = conf.get("good", {})
+    return [
+        f"**Against the hand labels** (50 resumes, labelled by the owner without seeing the "
+        f"generator's label), the agent is best on both measures: precision@5 "
+        f"{_f(h['agent']['precision@5'])} against {_f(h['random order']['precision@5'])} "
+        f"for a random order. Keyword search ({_f(h['keyword']['precision@5'])}) is close "
+        f"to chance, and embedding similarity ({_f(h['embedding']['precision@5'])}) is "
+        "below it.",
+        "",
+        f"The owner and the generator's rule agree on {_f(s['hand_vs_generator_agreement'])} "
+        f"of the 50, and the agent's tier matches the owner's label on {_f(tier['accuracy'])}. "
+        f"The owner was more lenient: of the resumes labelled good, the agent shortlisted "
+        f"{good.get('good', 0)}, asked for a call on {good.get('borderline', 0)} and rejected "
+        f"{good.get('poor', 0)}. Most of those calls are for a city or language the resume "
+        "does not state, which the agent treats as worth a phone call and the owner did not; "
+        "the rest are small near misses, such as a notice period a little over the limit. "
+        "Changing that rule to fit these 50 labels would tune the system on its own "
+        "test set, so it is left as it is.",
+        "",
     ]
 
 

@@ -2,11 +2,14 @@
 
 from __future__ import annotations
 
+import itertools
+import statistics
+
 import pytest
 
 from shortlist.baselines import bm25
 from shortlist.eval_fairness import swap
-from shortlist.eval_rank import ndcg, precision_at
+from shortlist.eval_rank import chance, ndcg, precision_at
 
 
 def test_ndcg_is_one_for_the_ideal_order_and_lower_otherwise():
@@ -30,3 +33,10 @@ def test_bm25_prefers_matching_text():
 def test_swap_keeps_upper_case():
     text = "NAME: ASHA RAO\nMy name is Asha Rao."
     assert swap(text, "Asha Rao", "Salim Khan") == "NAME: SALIM KHAN\nMy name is Salim Khan."
+
+
+def test_chance_matches_the_average_over_every_order():
+    ls = ["good", "good", "borderline", "poor", "poor", "good"]
+    orders = [list(p) for p in itertools.permutations(ls)]
+    assert chance(ls)["ndcg@10"] == pytest.approx(statistics.mean(map(ndcg, orders)))
+    assert chance(ls)["precision@5"] == pytest.approx(statistics.mean(map(precision_at, orders)))
