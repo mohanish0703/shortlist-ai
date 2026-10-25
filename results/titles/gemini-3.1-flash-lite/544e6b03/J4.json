@@ -1,0 +1,27 @@
+{
+  "bike rider": {
+    "title": "Bike Rider",
+    "relation": "related",
+    "reason": "Involves operating a two-wheeler, which is the primary requirement for the delivery role."
+  },
+  "customer support executive": {
+    "title": "Customer Support Executive",
+    "relation": "different",
+    "reason": "This is an office-based role focused on communication rather than field-based delivery work."
+  },
+  "delivery associate": {
+    "title": "Delivery Associate",
+    "relation": "same",
+    "reason": "This is a standard industry term for the same core responsibilities as a Delivery Executive."
+  },
+  "delivery boy": {
+    "title": "Delivery Boy",
+    "relation": "same",
+    "reason": "This is a common colloquial title for the exact same delivery function."
+  },
+  "delivery executive": {
+    "title": "Delivery Executive",
+    "relation": "same",
+    "reason": "This is the exact same job title as the one being filled."
+  }
+}

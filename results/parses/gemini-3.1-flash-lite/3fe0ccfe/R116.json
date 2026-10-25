@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "name": "Raghavendra Naik",
+    "jobs": [
+      {
+        "title": "Housekeeping Staff",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Room Attendant",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 3.75,
+    "skills": [
+      "bed making",
+      "machine scrubbing",
+      "teamwork",
+      "punctuality"
+    ],
+    "location": null,
+    "languages": [
+      "Hindi"
+    ],
+    "certifications": [
+      "First Aid Training",
+      "PMKVY Housekeeping Attendant"
+    ],
+    "education": "12th",
+    "institution": null,
+    "expected_salary_monthly_inr": 17000,
+    "notice_period_days": 7
+  },
+  "seconds": 1.86
+}

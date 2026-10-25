@@ -1,0 +1,41 @@
+{
+  "extraction": {
+    "name": "Subhajit Das",
+    "jobs": [
+      {
+        "title": "Room Attendant",
+        "start": "2026-04",
+        "end": "2026-05"
+      },
+      {
+        "title": "Room Attendant",
+        "start": "2022-10",
+        "end": "2026-01"
+      },
+      {
+        "title": "Housekeeping Attendant",
+        "start": "2021-04",
+        "end": "2022-07"
+      }
+    ],
+    "stated_total_years": 4.6,
+    "skills": [
+      "bed making",
+      "floor mopping",
+      "machine scrubbing",
+      "chemical handling",
+      "bathroom sanitation"
+    ],
+    "location": "Bangalore",
+    "languages": [
+      "Bengali",
+      "Kannada"
+    ],
+    "certifications": [],
+    "education": "10th",
+    "institution": "St. Anne's High School, Kolkata",
+    "expected_salary_monthly_inr": 20000,
+    "notice_period_days": 0
+  },
+  "seconds": 3.68
+}

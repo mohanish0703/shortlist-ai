@@ -1,0 +1,39 @@
+{
+  "extraction": {
+    "name": "Ravi Varma",
+    "jobs": [
+      {
+        "title": "Security Guard",
+        "start": "2026-09",
+        "end": "present"
+      },
+      {
+        "title": "Security Supervisor",
+        "start": "2025-01",
+        "end": "2026-09"
+      }
+    ],
+    "stated_total_years": 1.8,
+    "skills": [
+      "patrolling",
+      "visitor management",
+      "access control",
+      "fire safety",
+      "emergency response",
+      "CCTV monitoring"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Telugu"
+    ],
+    "certifications": [
+      "First Aid Training",
+      "PSARA Security Training"
+    ],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 16500,
+    "notice_period_days": 7
+  },
+  "seconds": 2.81
+}

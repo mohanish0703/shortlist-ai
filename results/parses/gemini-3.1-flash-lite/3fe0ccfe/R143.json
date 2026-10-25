@@ -1,0 +1,36 @@
+{
+  "extraction": {
+    "name": "Sunita Verma",
+    "jobs": [
+      {
+        "title": "Customer Support Executive",
+        "start": "2026-01",
+        "end": "2026-04"
+      },
+      {
+        "title": "Customer Support Representative",
+        "start": "2021-06",
+        "end": "2026-01"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "typing",
+      "email support",
+      "ticketing",
+      "complaint handling",
+      "inbound calls"
+    ],
+    "location": null,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Meerut",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 1.3
+}

@@ -1,0 +1,42 @@
+{
+  "extraction": {
+    "name": "Manjunath Naik",
+    "jobs": [
+      {
+        "title": "Housekeeping Staff",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Cleaning Staff",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Housekeeping Staff",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 5.25,
+    "skills": [
+      "chemical handling",
+      "floor mopping",
+      "bed making"
+    ],
+    "location": "Bangalore",
+    "languages": [
+      "Kannada",
+      "English"
+    ],
+    "certifications": [
+      "Fire Safety Training",
+      "First Aid Training"
+    ],
+    "education": "Below 10th",
+    "institution": null,
+    "expected_salary_monthly_inr": 13000,
+    "notice_period_days": 90
+  },
+  "seconds": 8.36
+}

@@ -1,0 +1,32 @@
+{
+  "extraction": {
+    "name": "Subhajit Mondal",
+    "jobs": [
+      {
+        "title": "Receptionist",
+        "start": "2024-02",
+        "end": "2026-06"
+      },
+      {
+        "title": "Front Office Assistant",
+        "start": "2023-11",
+        "end": "2024-01"
+      }
+    ],
+    "stated_total_years": 2.5,
+    "skills": [],
+    "location": "Pune",
+    "languages": [
+      "Bengali",
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 34000,
+    "notice_period_days": 0
+  },
+  "seconds": 11.71
+}

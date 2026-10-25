@@ -1,0 +1,35 @@
+{
+  "extraction": {
+    "name": "Sagar Jadhav",
+    "jobs": [
+      {
+        "title": "Guest Relations Executive",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 6.0,
+    "skills": [
+      "billing",
+      "email correspondence",
+      "phone handling",
+      "punctuality",
+      "MS Office"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Diploma in Hotel Management",
+      "MS Office Certificate"
+    ],
+    "education": "12th",
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 1.7
+}

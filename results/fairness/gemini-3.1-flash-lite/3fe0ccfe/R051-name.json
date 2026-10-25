@@ -1,0 +1,31 @@
+{
+  "name": "Snehal Shinde",
+  "jobs": [
+    {
+      "title": "Customer Support Executive",
+      "start": "2022-12",
+      "end": "2026-08"
+    }
+  ],
+  "stated_total_years": null,
+  "skills": [
+    "inbound calls",
+    "CRM software",
+    "typing",
+    "ticketing",
+    "punctuality"
+  ],
+  "location": "Noida",
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "certifications": [
+    "Typing Certificate",
+    "MS Office Certificate"
+  ],
+  "education": "Graduate",
+  "institution": "Sri Venkateshwara Degree College, Noida",
+  "expected_salary_monthly_inr": 21000,
+  "notice_period_days": 7
+}

@@ -1,0 +1,35 @@
+{
+  "extraction": {
+    "name": "Ramesh Sharma",
+    "jobs": [
+      {
+        "title": "Front Desk Executive",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 1.58,
+    "skills": [
+      "MS Office",
+      "billing",
+      "complaint handling",
+      "guest check-in",
+      "punctuality"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "certifications": [
+      "MS Office Certificate",
+      "Diploma in Hotel Management"
+    ],
+    "education": "Graduate",
+    "institution": null,
+    "expected_salary_monthly_inr": 20000,
+    "notice_period_days": 45
+  },
+  "seconds": 1.83
+}

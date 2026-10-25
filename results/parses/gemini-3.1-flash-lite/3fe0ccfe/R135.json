@@ -1,0 +1,25 @@
+{
+  "extraction": {
+    "name": "Anjali Singh",
+    "jobs": [
+      {
+        "title": "CSR",
+        "start": "2023-11",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": 2.9,
+    "skills": [],
+    "location": "Noida",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 1.37
+}

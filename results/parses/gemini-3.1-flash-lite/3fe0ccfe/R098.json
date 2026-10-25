@@ -1,0 +1,36 @@
+{
+  "extraction": {
+    "name": "Sachin Patil",
+    "jobs": [
+      {
+        "title": "Guest Relations Executive",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Front Office Assistant",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 4.25,
+    "skills": [
+      "guest check-in",
+      "MS Office",
+      "phone handling",
+      "punctuality"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "Diploma",
+    "institution": null,
+    "expected_salary_monthly_inr": 23500,
+    "notice_period_days": 0
+  },
+  "seconds": 5.64
+}

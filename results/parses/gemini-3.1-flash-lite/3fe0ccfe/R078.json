@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "name": "Pallavi More",
+    "jobs": [
+      {
+        "title": "Front Desk Executive",
+        "start": "2020-07",
+        "end": "present"
+      },
+      {
+        "title": "Receptionist",
+        "start": "2019-12",
+        "end": "2020-04"
+      }
+    ],
+    "stated_total_years": 6.6,
+    "skills": [
+      "visitor management",
+      "email correspondence",
+      "guest check-in",
+      "complaint handling",
+      "teamwork"
+    ],
+    "location": "Lonavala",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "Graduate",
+    "institution": "Govt. Arts & Science College, Lonavala",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 30
+  },
+  "seconds": 1.58
+}

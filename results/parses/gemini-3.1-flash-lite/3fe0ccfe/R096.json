@@ -1,0 +1,30 @@
+{
+  "extraction": {
+    "name": "Bikram Behera",
+    "jobs": [
+      {
+        "title": "Security Officer",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Security Guard",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 2.75,
+    "skills": [],
+    "location": null,
+    "languages": [
+      "Hindi",
+      "Telugu"
+    ],
+    "certifications": [],
+    "education": "12th",
+    "institution": null,
+    "expected_salary_monthly_inr": 20000,
+    "notice_period_days": 0
+  },
+  "seconds": 1.46
+}

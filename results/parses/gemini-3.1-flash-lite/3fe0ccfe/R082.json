@@ -1,0 +1,38 @@
+{
+  "extraction": {
+    "name": "Debasis Sahoo",
+    "jobs": [
+      {
+        "title": "Customer Support Executive",
+        "start": "2023-05",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "ticketing",
+      "CRM software",
+      "inbound calls",
+      "complaint handling",
+      "email support",
+      "typing",
+      "hardworking",
+      "teamwork"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Odia",
+      "English",
+      "Hindi"
+    ],
+    "certifications": [
+      "MS Office Certificate",
+      "Typing Certificate"
+    ],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 25000,
+    "notice_period_days": 0
+  },
+  "seconds": 4.42
+}

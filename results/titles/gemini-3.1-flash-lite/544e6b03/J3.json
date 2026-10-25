@@ -1,0 +1,52 @@
+{
+  "customer support executive": {
+    "title": "Customer Support Executive",
+    "relation": "different",
+    "reason": "This role focuses on communication and service rather than physical security or surveillance."
+  },
+  "delivery associate": {
+    "title": "Delivery Associate",
+    "relation": "different",
+    "reason": "This role involves logistics and transportation rather than site security."
+  },
+  "delivery executive": {
+    "title": "Delivery Executive",
+    "relation": "different",
+    "reason": "This role involves logistics and transportation rather than site security."
+  },
+  "front office assistant": {
+    "title": "Front Office Assistant",
+    "relation": "related",
+    "reason": "This role involves visitor management and access control, which are key components of security work."
+  },
+  "guest relations executive": {
+    "title": "Guest Relations Executive",
+    "relation": "related",
+    "reason": "This role involves managing visitor entry and site presence, which overlaps with security duties."
+  },
+  "office boy": {
+    "title": "Office Boy",
+    "relation": "different",
+    "reason": "This role focuses on administrative support and errands rather than security operations."
+  },
+  "receptionist": {
+    "title": "Receptionist",
+    "relation": "related",
+    "reason": "This role involves monitoring entry points and managing visitors, which is relevant to security."
+  },
+  "security guard": {
+    "title": "Security Guard",
+    "relation": "same",
+    "reason": "This is the exact role being filled."
+  },
+  "security officer": {
+    "title": "Security Officer",
+    "relation": "same",
+    "reason": "This is a standard alternative title for the same security responsibilities."
+  },
+  "security supervisor": {
+    "title": "Security Supervisor",
+    "relation": "same",
+    "reason": "This role involves the same core security duties, often with added oversight responsibilities."
+  }
+}

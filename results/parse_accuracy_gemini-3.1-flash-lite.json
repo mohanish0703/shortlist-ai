@@ -1,0 +1,116 @@
+{
+  "note": "SYNTHETIC resumes; accuracy against the generator's ground truth",
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "3fe0ccfe",
+  "date": "2026-10-25",
+  "resumes": 150,
+  "complete": true,
+  "parse_failures": 0,
+  "field_accuracy": {
+    "name": 1.0,
+    "job_titles": 0.993,
+    "skills": 0.62,
+    "years_experience": 0.993,
+    "location": 1.0,
+    "languages": 0.953,
+    "certifications": 0.973,
+    "education": 0.98,
+    "institution": 0.993,
+    "expected_salary_monthly_inr": 1.0,
+    "notice_period_days": 0.993
+  },
+  "field_errors": {
+    "name": {},
+    "job_titles": {
+      "wrong": 1
+    },
+    "skills": {
+      "wrong": 56,
+      "invented": 1
+    },
+    "years_experience": {
+      "wrong": 1
+    },
+    "location": {},
+    "languages": {
+      "wrong": 5,
+      "invented": 1,
+      "missed": 1
+    },
+    "certifications": {
+      "wrong": 4
+    },
+    "education": {
+      "invented": 3
+    },
+    "institution": {
+      "wrong": 1
+    },
+    "expected_salary_monthly_inr": {},
+    "notice_period_days": {
+      "invented": 1
+    }
+  },
+  "list_fields": {
+    "job_titles": {
+      "precision": 0.996,
+      "recall": 0.996,
+      "f1": 0.996
+    },
+    "skills": {
+      "precision": 0.975,
+      "recall": 0.908,
+      "f1": 0.94
+    },
+    "languages": {
+      "precision": 0.997,
+      "recall": 0.98,
+      "f1": 0.988
+    },
+    "certifications": {
+      "precision": 1.0,
+      "recall": 0.976,
+      "f1": 0.988
+    }
+  },
+  "mean_field_accuracy": 0.955,
+  "all_fields_correct": 0.553,
+  "by_group": {
+    "noise:bad_pdf_extract": {
+      "resumes": 20,
+      "mean_field_accuracy": 0.977
+    },
+    "noise:clean": {
+      "resumes": 80,
+      "mean_field_accuracy": 0.949
+    },
+    "noise:typos": {
+      "resumes": 50,
+      "mean_field_accuracy": 0.955
+    },
+    "template:bullets": {
+      "resumes": 20,
+      "mean_field_accuracy": 0.955
+    },
+    "template:form": {
+      "resumes": 32,
+      "mean_field_accuracy": 0.974
+    },
+    "template:formal": {
+      "resumes": 40,
+      "mean_field_accuracy": 0.959
+    },
+    "template:hinglish": {
+      "resumes": 31,
+      "mean_field_accuracy": 0.947
+    },
+    "template:prose": {
+      "resumes": 27,
+      "mean_field_accuracy": 0.933
+    }
+  },
+  "seconds_per_resume": {
+    "median": 1.85,
+    "max": 48.38
+  }
+}

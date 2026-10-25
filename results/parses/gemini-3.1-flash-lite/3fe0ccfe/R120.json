@@ -1,0 +1,38 @@
+{
+  "extraction": {
+    "name": "Raghavendra Gowda",
+    "jobs": [
+      {
+        "title": "Housekeeping Attendant",
+        "start": "2025-01",
+        "end": "2026-07"
+      },
+      {
+        "title": "Housekeeping Staff",
+        "start": "2022-03",
+        "end": "2025-01"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "chemical handling",
+      "bed making",
+      "machine scrubbing",
+      "floor mopping",
+      "hardworking"
+    ],
+    "location": "Bangalore",
+    "languages": [
+      "Kannada",
+      "Hindi"
+    ],
+    "certifications": [
+      "Fire Safety Training"
+    ],
+    "education": "Below 10th",
+    "institution": "Govt. Primary School, Bengaluru",
+    "expected_salary_monthly_inr": 19500,
+    "notice_period_days": 0
+  },
+  "seconds": 1.63
+}

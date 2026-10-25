@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "name": "Priya Pandian",
+    "jobs": [
+      {
+        "title": "Delivery Associate",
+        "start": "2025-01",
+        "end": "present"
+      },
+      {
+        "title": "Delivery Executive",
+        "start": "2024-09",
+        "end": "2025-01"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "cash handling",
+      "parcel handling",
+      "two-wheeler riding",
+      "punctuality"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "certifications": [
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": "10th",
+    "institution": "Sri Saraswati Vidya Mandir, Chennai",
+    "expected_salary_monthly_inr": 16000,
+    "notice_period_days": null
+  },
+  "seconds": 1.6
+}

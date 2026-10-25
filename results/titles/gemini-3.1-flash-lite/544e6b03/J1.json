@@ -1,0 +1,52 @@
+{
+  "cleaning staff": {
+    "title": "Cleaning Staff",
+    "relation": "same",
+    "reason": "Cleaning staff perform the core duties required for a housekeeping role."
+  },
+  "front office assistant": {
+    "title": "Front Office Assistant",
+    "relation": "different",
+    "reason": "This role focuses on administrative and guest-facing tasks rather than cleaning and maintenance."
+  },
+  "guest relations executive": {
+    "title": "Guest Relations Executive",
+    "relation": "different",
+    "reason": "This is a customer service and management role, not a manual housekeeping position."
+  },
+  "housekeeping attendant": {
+    "title": "Housekeeping Attendant",
+    "relation": "same",
+    "reason": "This is a standard title for housekeeping staff."
+  },
+  "housekeeping staff": {
+    "title": "Housekeeping Staff",
+    "relation": "same",
+    "reason": "This is the exact role being filled."
+  },
+  "kitchen helper": {
+    "title": "Kitchen Helper",
+    "relation": "related",
+    "reason": "Kitchen helpers are accustomed to cleaning and maintaining hygiene standards in a professional environment."
+  },
+  "laundry assistant": {
+    "title": "Laundry Assistant",
+    "relation": "related",
+    "reason": "Laundry tasks are often a component of housekeeping duties in hotels and facilities."
+  },
+  "office boy": {
+    "title": "Office Boy",
+    "relation": "related",
+    "reason": "Office boys often handle general cleaning and maintenance tasks alongside administrative errands."
+  },
+  "receptionist": {
+    "title": "Receptionist",
+    "relation": "different",
+    "reason": "Receptionist duties are primarily administrative and communication-based, not cleaning-focused."
+  },
+  "room attendant": {
+    "title": "Room Attendant",
+    "relation": "same",
+    "reason": "Room attendants are responsible for cleaning and maintaining guest rooms, which is the primary housekeeping task."
+  }
+}

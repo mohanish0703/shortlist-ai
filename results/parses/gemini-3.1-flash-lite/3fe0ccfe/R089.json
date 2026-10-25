@@ -1,0 +1,43 @@
+{
+  "extraction": {
+    "name": "Kavya K",
+    "jobs": [
+      {
+        "title": "Guest Relations Executive",
+        "start": "2022-01",
+        "end": "present"
+      },
+      {
+        "title": "Guest Relations Executive",
+        "start": "2021-09",
+        "end": "2021-12"
+      }
+    ],
+    "stated_total_years": 5.0,
+    "skills": [
+      "visitor management",
+      "inbound calls",
+      "MS Office",
+      "guest check-in",
+      "billing",
+      "complaint handling",
+      "punctuality",
+      "hardworking"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Kannada",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "MS Office Certificate",
+      "Diploma in Hotel Management"
+    ],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Tumakuru",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": null
+  },
+  "seconds": 1.65
+}

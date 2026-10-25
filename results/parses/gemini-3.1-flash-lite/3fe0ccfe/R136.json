@@ -1,0 +1,27 @@
+{
+  "extraction": {
+    "name": "Ravi Rao",
+    "jobs": [],
+    "stated_total_years": 0.0,
+    "skills": [
+      "billing",
+      "email correspondence",
+      "complaint handling",
+      "visitor management"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Telugu",
+      "Marathi",
+      "English"
+    ],
+    "certifications": [
+      "Diploma in Hotel Management"
+    ],
+    "education": "Diploma",
+    "institution": null,
+    "expected_salary_monthly_inr": 21000,
+    "notice_period_days": 0
+  },
+  "seconds": 1.76
+}

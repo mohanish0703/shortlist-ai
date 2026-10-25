@@ -1,0 +1,31 @@
+{
+  "extraction": {
+    "name": "Amit Paswan",
+    "jobs": [
+      {
+        "title": "Housekeeping Staff",
+        "start": "2025-04",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "floor mopping",
+      "punctuality",
+      "teamwork"
+    ],
+    "location": "Indore",
+    "languages": [
+      "Hindi"
+    ],
+    "certifications": [
+      "Fire Safety Training",
+      "First Aid Training"
+    ],
+    "education": "10th",
+    "institution": "Govt. High School, Indore",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 11.3
+}

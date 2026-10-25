@@ -1,0 +1,17 @@
+APPLICATION FORM
+
+Candidate Name      : Ramesh Devi
+Current City        : Noida (UP)
+Contact             : 92XXXXX880 / ramesh27@example.com
+Total Experience    : 3.9 years
+
+| Organisation | Designation | From | To |
+| BrightPath Services | CSR | 1.2026 | 6.2026 |
+| Nimbus Telecom Support | CSR | 5.2022 | 11.2025 |
+
+Key Skills          : Salesforce / CRM tools / Zendesk-like ticket tools / fast typing (35 wpm) / inbound calls / non-voice (email) process
+Languages           : Hindi - fluent, English (read/write/speak)
+Qualification       : BA (Sri Venkateshwara Degree College, Noida)
+Certificates        : English typing certificate, MS-CIT
+Expected Salary     : 4.5 LPA
+Notice Period       : 15 days

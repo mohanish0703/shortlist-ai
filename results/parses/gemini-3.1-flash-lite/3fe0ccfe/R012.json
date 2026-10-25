@@ -1,0 +1,35 @@
+{
+  "extraction": {
+    "name": "Ramesh Singh",
+    "jobs": [
+      {
+        "title": "Customer Support Executive",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Customer Support Executive",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 5.5,
+    "skills": [
+      "inbound calls",
+      "email support",
+      "complaint handling",
+      "CRM software"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "Graduate",
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 7
+  },
+  "seconds": 1.41
+}

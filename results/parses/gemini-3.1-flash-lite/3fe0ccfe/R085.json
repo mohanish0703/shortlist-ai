@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "name": "Kavya K",
+    "jobs": [
+      {
+        "title": "Delivery Associate",
+        "start": "2026-03",
+        "end": "present"
+      },
+      {
+        "title": "Delivery Executive",
+        "start": "2020-11",
+        "end": "2026-02"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "customer handling",
+      "two-wheeler riding",
+      "route navigation",
+      "Google Maps",
+      "hardworking"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Kannada",
+      "Telugu",
+      "English"
+    ],
+    "certifications": [],
+    "education": "12th",
+    "institution": "Govt. Junior College, Mysuru",
+    "expected_salary_monthly_inr": 14500,
+    "notice_period_days": 0
+  },
+  "seconds": 1.83
+}

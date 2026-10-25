@@ -1,0 +1,31 @@
+{
+  "extraction": {
+    "name": "Anjali Singh",
+    "jobs": [
+      {
+        "title": "Receptionist",
+        "start": "2024-05",
+        "end": "2026-07"
+      }
+    ],
+    "stated_total_years": 2.2,
+    "skills": [
+      "complaint handling",
+      "punctuality"
+    ],
+    "location": null,
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "certifications": [
+      "Diploma in Hotel Management"
+    ],
+    "education": "12th",
+    "institution": "Govt. Junior College, Noida",
+    "expected_salary_monthly_inr": 27000,
+    "notice_period_days": 30
+  },
+  "seconds": 2.78
+}

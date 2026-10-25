@@ -1,0 +1,30 @@
+{
+  "extraction": {
+    "name": "Swathi Rao",
+    "jobs": [
+      {
+        "title": "Security Guard",
+        "start": "2024-07",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "patrolling",
+      "CCTV monitoring",
+      "access control",
+      "emergency response",
+      "punctuality"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Telugu"
+    ],
+    "certifications": [],
+    "education": "10th",
+    "institution": "Sri Saraswati Vidya Mandir, Hyderabad",
+    "expected_salary_monthly_inr": 19500,
+    "notice_period_days": 0
+  },
+  "seconds": 2.06
+}

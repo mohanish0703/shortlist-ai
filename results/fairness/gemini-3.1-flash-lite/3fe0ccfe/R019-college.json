@@ -1,0 +1,43 @@
+{
+  "name": "Srinivas Rao",
+  "jobs": [
+    {
+      "title": "Receptionist",
+      "start": "2026-02",
+      "end": "2026-08"
+    },
+    {
+      "title": "Front Office Assistant",
+      "start": "2024-04",
+      "end": "2026-02"
+    },
+    {
+      "title": "Front Office Assistant",
+      "start": "2021-08",
+      "end": "2024-02"
+    }
+  ],
+  "stated_total_years": null,
+  "skills": [
+    "MS Office",
+    "email correspondence",
+    "visitor management",
+    "inbound calls",
+    "punctuality",
+    "hardworking",
+    "guest check-in"
+  ],
+  "location": null,
+  "languages": [
+    "Telugu",
+    "Hindi",
+    "English"
+  ],
+  "certifications": [
+    "Diploma in Hotel Management"
+  ],
+  "education": "Graduate",
+  "institution": "Govt. Arts & Science College, Warangal",
+  "expected_salary_monthly_inr": 16000,
+  "notice_period_days": 7
+}

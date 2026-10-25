@@ -1,0 +1,27 @@
+{
+  "extraction": {
+    "name": "Shilpa Naik",
+    "jobs": [
+      {
+        "title": "Housekeeping Staff",
+        "start": "2021-10",
+        "end": "2026-09"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [],
+    "location": "Bengaluru",
+    "languages": [
+      "Kannada",
+      "Hindi"
+    ],
+    "certifications": [
+      "First Aid Training"
+    ],
+    "education": "Below 10th",
+    "institution": "Govt. Primary School, Bengaluru",
+    "expected_salary_monthly_inr": 26000,
+    "notice_period_days": 0
+  },
+  "seconds": 1.64
+}

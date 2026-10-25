@@ -1,0 +1,484 @@
+{
+  "R049": {
+    "text": "The candidate has 3.8 years of relevant experience. The expected salary of 21000 INR/month is close to the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.8"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "21000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R080": {
+    "text": "The candidate is a suitable fresher living in Chennai with a two-wheeler licence.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      },
+      {
+        "field": "location",
+        "value": "Chennai"
+      },
+      {
+        "field": "certifications",
+        "value": "Two-Wheeler Driving Licence"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R092": {
+    "text": "The candidate has 2.4 years of experience as a Delivery Associate.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.4"
+      },
+      {
+        "field": "job_titles",
+        "value": "Delivery Associate"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R030": {
+    "text": "The candidate is a fresher with a two-wheeler licence. The expected salary is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      },
+      {
+        "field": "certifications",
+        "value": "Two-Wheeler Driving Licence"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R105": {
+    "text": "The candidate is a fresher with a two-wheeler licence and relevant skills.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      },
+      {
+        "field": "certifications",
+        "value": "Two-Wheeler Driving Licence"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R052": {
+    "text": "The candidate has 2.1 years of experience. The notice period is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.1"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R015": {
+    "text": "The candidate is a fresher with a two-wheeler licence. The expected salary is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      },
+      {
+        "field": "certifications",
+        "value": "Two-Wheeler Driving Licence"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R043": {
+    "text": "The candidate has 1.9 years of experience. The notice period is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.9"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R086": {
+    "text": "The candidate is a fresher with a two-wheeler licence. Salary and notice period are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      },
+      {
+        "field": "certifications",
+        "value": "Two-Wheeler Driving Licence"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R127": {
+    "text": "The candidate is a fresher with a two-wheeler licence.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      },
+      {
+        "field": "certifications",
+        "value": "Two-Wheeler Driving Licence"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R132": {
+    "text": "The candidate is a fresher with a two-wheeler licence. The expected salary is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      },
+      {
+        "field": "certifications",
+        "value": "Two-Wheeler Driving Licence"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R083": {
+    "text": "The candidate is a fresher with a two-wheeler licence. The expected salary is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      },
+      {
+        "field": "certifications",
+        "value": "Two-Wheeler Driving Licence"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R045": {
+    "text": "The candidate has 4 years of experience. Languages and notice period are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.0"
+      },
+      {
+        "field": "languages",
+        "value": "not stated"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R003": {
+    "text": "The candidate has 3.9 years of experience. The expected salary of 24000 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.9"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "24000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R042": {
+    "text": "The candidate has 4.8 years of experience. The notice period of 10 days exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.8"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "10"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R081": {
+    "text": "The candidate is a fresher with a two-wheeler licence. The notice period of 10 days exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "10"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R141": {
+    "text": "The candidate is a fresher living in Chennai. A two-wheeler licence is not listed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      },
+      {
+        "field": "certifications",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R090": {
+    "text": "The candidate has 0.6 years of experience and a two-wheeler licence. Languages are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.6"
+      },
+      {
+        "field": "languages",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R101": {
+    "text": "The candidate has 0.1 years of experience. The notice period of 14 days exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.1"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "14"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R130": {
+    "text": "The candidate has 3 years of experience. The candidate does not speak Tamil.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.0"
+      },
+      {
+        "field": "languages",
+        "value": "Assamese"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R072": {
+    "text": "The candidate has 4.2 years of experience. The expected salary of 26500 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.2"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "26500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R055": {
+    "text": "The candidate has 4.5 years of experience. The notice period of 90 days is too long.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.5"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "90"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R037": {
+    "text": "The candidate has 1.6 years of experience. The expected salary of 31000 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.6"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "31000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R126": {
+    "text": "The candidate is a fresher. The expected salary of 26500 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "26500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R087": {
+    "text": "The candidate has 4.2 years of experience. The expected salary of 25000 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.2"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "25000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R077": {
+    "text": "The candidate has 3.8 years of experience. The candidate lives in Jaipur, not Chennai.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.8"
+      },
+      {
+        "field": "location",
+        "value": "Jaipur"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R036": {
+    "text": "The candidate has 3.3 years of experience. The candidate lives in Lucknow, not Chennai.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.3"
+      },
+      {
+        "field": "location",
+        "value": "Lucknow"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R039": {
+    "text": "The candidate has 0.2 years of experience. The expected salary of 33000 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.2"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "33000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R021": {
+    "text": "The candidate has 2.4 years of experience. The candidate lives in Kochi, not Chennai.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.4"
+      },
+      {
+        "field": "location",
+        "value": "Kochi"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R084": {
+    "text": "The candidate has 1.1 years of experience. The previous role was in customer support, not delivery.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.1"
+      },
+      {
+        "field": "job_titles",
+        "value": "Customer Support Executive"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  }
+}

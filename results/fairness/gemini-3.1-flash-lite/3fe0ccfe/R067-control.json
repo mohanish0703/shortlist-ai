@@ -1,0 +1,30 @@
+{
+  "name": "Swathi Chowdary",
+  "jobs": [
+    {
+      "title": "Security Guard",
+      "start": "2026-01",
+      "end": "present"
+    }
+  ],
+  "stated_total_years": null,
+  "skills": [
+    "visitor management",
+    "patrolling",
+    "fire safety",
+    "CCTV monitoring",
+    "teamwork",
+    "hardworking"
+  ],
+  "location": "Hyderabad",
+  "languages": [
+    "Telugu",
+    "Hindi",
+    "English"
+  ],
+  "certifications": [],
+  "education": "12th",
+  "institution": "Model Higher Secondary School, Hyderabad",
+  "expected_salary_monthly_inr": null,
+  "notice_period_days": 7
+}

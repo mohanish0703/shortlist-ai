@@ -1,0 +1,37 @@
+{
+  "name": "Joseph Thomas",
+  "jobs": [
+    {
+      "title": "CSR",
+      "start": "2026-07",
+      "end": "present"
+    },
+    {
+      "title": "Customer Care Executive",
+      "start": "2025-10",
+      "end": "2026-07"
+    },
+    {
+      "title": "Customer Care Executive",
+      "start": "2025-01",
+      "end": "2025-08"
+    }
+  ],
+  "stated_total_years": 1.6,
+  "skills": [
+    "MS Office"
+  ],
+  "location": null,
+  "languages": [
+    "Malayalam",
+    "Hindi",
+    "English"
+  ],
+  "certifications": [
+    "MS Office Certificate"
+  ],
+  "education": "Graduate",
+  "institution": "Govt. Arts & Science College, Kochi",
+  "expected_salary_monthly_inr": 23000,
+  "notice_period_days": 0
+}

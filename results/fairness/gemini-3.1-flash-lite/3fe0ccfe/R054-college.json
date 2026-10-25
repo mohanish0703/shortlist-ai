@@ -1,0 +1,41 @@
+{
+  "name": "Pallavi Jadhav",
+  "jobs": [
+    {
+      "title": "Front Office Assistant",
+      "start": "2025-07",
+      "end": "2026-05"
+    },
+    {
+      "title": "Receptionist",
+      "start": "2025-02",
+      "end": "2025-04"
+    },
+    {
+      "title": "Guest Relations Executive",
+      "start": "2022-11",
+      "end": "2025-01"
+    }
+  ],
+  "stated_total_years": null,
+  "skills": [
+    "MS Office",
+    "complaint handling",
+    "punctuality",
+    "teamwork",
+    "guest check-in"
+  ],
+  "location": null,
+  "languages": [
+    "Marathi",
+    "English"
+  ],
+  "certifications": [
+    "MS Office Certificate",
+    "Diploma in Hotel Management"
+  ],
+  "education": "Diploma",
+  "institution": "Govt. Polytechnic, Satara",
+  "expected_salary_monthly_inr": 21000,
+  "notice_period_days": 15
+}

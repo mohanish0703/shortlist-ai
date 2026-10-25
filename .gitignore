@@ -1,0 +1,34 @@
+# Patterns starting with "/" are anchored to the repo root.
+# data/ IS committed: it is synthetic, small, and the hand labels must be versioned.
+
+# --- Secrets ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# --- Runtime state ---
+*.sqlite
+*.db
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Graph checkpoints and recruiter feedback (local runs)
+runs/

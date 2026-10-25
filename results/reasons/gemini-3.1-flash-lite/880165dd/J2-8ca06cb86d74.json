@@ -1,0 +1,544 @@
+{
+  "R098": {
+    "text": "The candidate has 4.2 years of experience and lives in Pune. The expected salary of 23500 INR/month is within the budget.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.2"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "23500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R016": {
+    "text": "The candidate has 6.0 years of experience and lives in Pune, with relevant skills including MS Office and phone handling. Salary expectations are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "6.0"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "skills",
+        "value": "[\"billing\", \"email correspondence\", \"phone handling\", \"punctuality\", \"MS Office\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R010": {
+    "text": "The candidate has 4.0 years of experience and lives in Pune, possessing required skills like guest check-in and MS Office. Salary expectations are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.0"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "skills",
+        "value": "[\"email correspondence\", \"guest check-in\", \"MS Office\", \"billing\", \"inbound calls\", \"teamwork\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R071": {
+    "text": "The candidate has 5.3 years of experience and lives in Pune, with MS Office skills. Salary expectations are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.3"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "skills",
+        "value": "[\"visitor management\", \"complaint handling\", \"billing\", \"punctuality\", \"hardworking\", \"MS Office\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R008": {
+    "text": "The candidate has 4.3 years of experience and lives in Pune, with guest check-in skills. Salary expectations are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.3"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "skills",
+        "value": "[\"billing\", \"email correspondence\", \"guest check-in\", \"complaint handling\", \"visitor management\", \"teamwork\", \"punctuality\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R020": {
+    "text": "The candidate has 5.9 years of experience and lives in Pune, with an expected salary of 21500 INR/month. Notice period is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.9"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "21500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R108": {
+    "text": "The candidate has 2.8 years of experience and lives in Pune, with guest check-in and MS Office skills. Salary and notice period are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.8"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "skills",
+        "value": "[\"visitor management\", \"MS Office\", \"email correspondence\", \"guest check-in\", \"billing\", \"teamwork\", \"hardworking\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R145": {
+    "text": "The candidate has 2.7 years of experience and lives in Pune, with guest check-in and MS Office skills. Salary and notice period are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.7"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "skills",
+        "value": "[\"billing\", \"guest check-in\", \"MS Office\", \"hardworking\", \"punctuality\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R075": {
+    "text": "The candidate has 3.5 years of experience and lives in Pune, with an expected salary of 20500 INR/month. Languages are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.5"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "20500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R054": {
+    "text": "The candidate has 3.2 years of experience and an expected salary of 21000 INR/month, with guest check-in and MS Office skills. Location is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.2"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "21000"
+      },
+      {
+        "field": "skills",
+        "value": "[\"MS Office\", \"complaint handling\", \"guest check-in\", \"teamwork\", \"punctuality\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R110": {
+    "text": "The candidate has 6.1 years of experience and lives in Pune, with an expected salary of 21000 INR/month. Languages are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "6.1"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "21000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R114": {
+    "text": "The candidate has 5.7 years of experience and lives in Pune, with an expected salary of 21500 INR/month. Languages and notice period are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.7"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "21500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R047": {
+    "text": "The candidate has 5.5 years of experience and lives in Pune, with an expected salary of 21500 INR/month. The notice period of 45 days exceeds the 30 days allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.5"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "21500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R065": {
+    "text": "The candidate has 3.8 years of experience and lives in Pune, with guest check-in and MS Office skills. The expected salary of 27500 INR/month exceeds the 25000 allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.8"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "27500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R033": {
+    "text": "The candidate has 6.0 years of experience and lives in Pune. Languages and salary expectations are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "6.0"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R095": {
+    "text": "The candidate has 2.8 years of experience and lives in Pune, with an expected salary of 16500 INR/month. Languages are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.8"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "16500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R123": {
+    "text": "The candidate has 2.8 years of experience and lives in Pune, with phone handling skills. Languages and salary expectations are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.8"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "skills",
+        "value": "[\"complaint handling\", \"email correspondence\", \"phone handling\", \"teamwork\", \"hardworking\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R078": {
+    "text": "The candidate has 6.6 years of experience and guest check-in skills. The location is Lonavala, which is near Pune.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "6.6"
+      },
+      {
+        "field": "skills",
+        "value": "[\"visitor management\", \"email correspondence\", \"guest check-in\", \"complaint handling\", \"teamwork\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R028": {
+    "text": "The candidate has 2.2 years of experience and guest check-in skills. The expected salary of 27000 INR/month exceeds the 25000 allowed, and location is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.2"
+      },
+      {
+        "field": "skills",
+        "value": "[\"complaint handling\", \"guest check-in\", \"punctuality\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R104": {
+    "text": "The candidate has 1.6 years of experience, which is below the 2 years required, and lives in Pune. The notice period of 45 days exceeds the 30 days allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.6"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R146": {
+    "text": "The candidate has 3.1 years of experience and lives in Pune. Salary and notice period are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.1"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R131": {
+    "text": "The candidate has 1.7 years of experience, which is below the 2 years required. The location is Lonavala, which is near Pune.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.7"
+      },
+      {
+        "field": "skills",
+        "value": "[\"phone handling\", \"complaint handling\", \"visitor management\", \"punctuality\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R060": {
+    "text": "The candidate has 3.0 years of experience and lives in Pune. The expected salary of 40500 INR/month significantly exceeds the 25000 allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.0"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "40500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R112": {
+    "text": "The candidate has 5.5 years of experience and lives in Pune. The notice period of 60 days exceeds the 30 days allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.5"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "60"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R009": {
+    "text": "The candidate has 2.4 years of experience and lives in Pune. The notice period of 60 days exceeds the 30 days allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.4"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "60"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R062": {
+    "text": "The candidate has 2.3 years of experience and lives in Pune. The candidate lacks English language proficiency.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.3"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "languages",
+        "value": "[\"Assamese\", \"Hindi\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R122": {
+    "text": "The candidate has 3.8 years of experience and lives in Pune. The previous role as a Telecaller is not relevant to the hotel receptionist position.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.8"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "job_titles",
+        "value": "[\"Telecaller\", \"Data Entry Operator\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R137": {
+    "text": "The candidate has 5.3 years of experience and lives in Pune. The expected salary of 36000 INR/month exceeds the 25000 allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.3"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "36000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R133": {
+    "text": "The candidate has 2.5 years of experience and lives in Pune. The expected salary of 34000 INR/month exceeds the 25000 allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.5"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "34000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R136": {
+    "text": "The candidate has 0.0 years of experience, which is below the 2 years required. The candidate lives in Pune.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      },
+      {
+        "field": "location",
+        "value": "Pune"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  }
+}

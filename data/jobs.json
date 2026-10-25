@@ -1,0 +1,127 @@
+[
+  {
+    "job_id": "J1",
+    "role": "housekeeping",
+    "title": "Housekeeping Staff",
+    "openings": 10,
+    "location": "Bengaluru",
+    "min_years": 1.0,
+    "languages_required": [],
+    "languages_any": [
+      "Kannada",
+      "Hindi"
+    ],
+    "required_certifications": [],
+    "preferred_skills": [
+      "room cleaning",
+      "bathroom sanitation",
+      "machine scrubbing"
+    ],
+    "max_salary_monthly_inr": 18000,
+    "max_notice_days": 15,
+    "salary_stretch_pct": 10,
+    "notice_stretch_days": 15,
+    "years_stretch": 0.5,
+    "description": "10 housekeeping staff, Bangalore, 1+ year experience, Kannada or Hindi."
+  },
+  {
+    "job_id": "J2",
+    "role": "front_desk",
+    "title": "Receptionist",
+    "openings": 2,
+    "location": "Pune",
+    "min_years": 2.0,
+    "languages_required": [
+      "English"
+    ],
+    "languages_any": [],
+    "required_certifications": [],
+    "preferred_skills": [
+      "guest check-in",
+      "phone handling",
+      "MS Office"
+    ],
+    "max_salary_monthly_inr": 25000,
+    "max_notice_days": 30,
+    "salary_stretch_pct": 10,
+    "notice_stretch_days": 15,
+    "years_stretch": 0.5,
+    "description": "2 receptionists for a hotel in Pune, 2+ years front desk, good English, MS Office."
+  },
+  {
+    "job_id": "J3",
+    "role": "security",
+    "title": "Security Guard",
+    "openings": 15,
+    "location": "Hyderabad",
+    "min_years": 1.0,
+    "languages_required": [],
+    "languages_any": [
+      "Telugu",
+      "Hindi"
+    ],
+    "required_certifications": [],
+    "preferred_skills": [
+      "access control",
+      "patrolling",
+      "CCTV monitoring"
+    ],
+    "max_salary_monthly_inr": 20000,
+    "max_notice_days": 7,
+    "salary_stretch_pct": 10,
+    "notice_stretch_days": 7,
+    "years_stretch": 0.5,
+    "description": "15 security guards for a tech park in Hyderabad, 1+ year, Telugu or Hindi, join within a week."
+  },
+  {
+    "job_id": "J4",
+    "role": "delivery",
+    "title": "Delivery Executive",
+    "openings": 20,
+    "location": "Chennai",
+    "min_years": 0.0,
+    "languages_required": [],
+    "languages_any": [
+      "Tamil"
+    ],
+    "required_certifications": [
+      "Two-Wheeler Driving Licence"
+    ],
+    "preferred_skills": [
+      "two-wheeler riding",
+      "route navigation",
+      "cash handling"
+    ],
+    "max_salary_monthly_inr": 22000,
+    "max_notice_days": 7,
+    "salary_stretch_pct": 10,
+    "notice_stretch_days": 7,
+    "years_stretch": 0.5,
+    "description": "20 delivery riders in Chennai, freshers OK, must speak Tamil and hold a 2-wheeler licence."
+  },
+  {
+    "job_id": "J5",
+    "role": "customer_support",
+    "title": "Customer Support Executive",
+    "openings": 8,
+    "location": "Noida",
+    "min_years": 1.0,
+    "languages_required": [
+      "English",
+      "Hindi"
+    ],
+    "languages_any": [],
+    "required_certifications": [],
+    "preferred_skills": [
+      "inbound calls",
+      "complaint handling",
+      "CRM software"
+    ],
+    "max_salary_monthly_inr": 26000,
+    "max_notice_days": 30,
+    "salary_stretch_pct": 10,
+    "notice_stretch_days": 15,
+    "years_stretch": 0.5,
+    "description": "8 customer support executives (voice) in Noida, 1+ year, fluent Hindi and English."
+  }
+]

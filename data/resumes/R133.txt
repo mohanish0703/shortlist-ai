@@ -1,0 +1,14 @@
+APPLICATION FORM
+
+Candidate Name      : Subhajit Mondal
+Current City        : Pune
+Contact             : 94XXXXX903 / subhajit15@example.com
+Total Experience    : 2.5 years
+
+| Organisation | Designation | From | To |
+| Sunrise Dental Clinic | Receptionist | Feb 2024 | Jun 2026 |
+| Medilife Diagnostics | Front Office Assistant | Nov 2023 | Jan 2024 |
+
+Languages           : Bengali (speak), Marathi (speak), Hindi (basic), English (speak)
+Expected Salary     : 4.08 LPA
+Notice Period       : Immediate joiner

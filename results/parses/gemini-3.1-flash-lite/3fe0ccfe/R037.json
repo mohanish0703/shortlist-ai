@@ -1,0 +1,38 @@
+{
+  "extraction": {
+    "name": "Senthil Raja",
+    "jobs": [
+      {
+        "title": "Delivery Associate",
+        "start": "2026-06",
+        "end": "present"
+      },
+      {
+        "title": "Delivery Boy",
+        "start": "2024-12",
+        "end": "2026-03"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "customer handling",
+      "two-wheeler riding",
+      "cash handling",
+      "Google Maps",
+      "route navigation",
+      "parcel handling"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Tamil"
+    ],
+    "certifications": [
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": "10th",
+    "institution": "Sri Saraswati Vidya Mandir, Chennai",
+    "expected_salary_monthly_inr": 31000,
+    "notice_period_days": null
+  },
+  "seconds": 3.16
+}

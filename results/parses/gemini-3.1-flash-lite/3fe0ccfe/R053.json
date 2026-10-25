@@ -1,0 +1,44 @@
+{
+  "extraction": {
+    "name": "Murugan Natarajan",
+    "jobs": [
+      {
+        "title": "Security Supervisor",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Security Officer",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Security Officer",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 5.75,
+    "skills": [
+      "emergency response",
+      "access control",
+      "fire safety",
+      "hardworking",
+      "teamwork"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Tamil",
+      "Hindi"
+    ],
+    "certifications": [
+      "First Aid Training",
+      "Fire Safety Training"
+    ],
+    "education": "Graduate",
+    "institution": null,
+    "expected_salary_monthly_inr": 24000,
+    "notice_period_days": 7
+  },
+  "seconds": 1.68
+}

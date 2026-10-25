@@ -1,0 +1,34 @@
+{
+  "extraction": {
+    "name": "Snehal More",
+    "jobs": [
+      {
+        "title": "Housekeeping Staff",
+        "start": "2024-11",
+        "end": "2026-04"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "bed making",
+      "floor mopping",
+      "room cleaning",
+      "machine scrubbing",
+      "bathroom sanitation"
+    ],
+    "location": "Bangalore",
+    "languages": [
+      "Marathi",
+      "Kannada",
+      "Hindi"
+    ],
+    "certifications": [
+      "PMKVY Housekeeping Attendant"
+    ],
+    "education": "Below 10th",
+    "institution": "Zilla Parishad School, Lonavala",
+    "expected_salary_monthly_inr": 17000,
+    "notice_period_days": 15
+  },
+  "seconds": 1.74
+}

@@ -1,0 +1,46 @@
+{
+  "extraction": {
+    "name": "Sagar More",
+    "jobs": [
+      {
+        "title": "Front Office Assistant",
+        "start": "2024-02",
+        "end": "present"
+      },
+      {
+        "title": "Receptionist",
+        "start": "2022-05",
+        "end": "2024-01"
+      },
+      {
+        "title": "Receptionist",
+        "start": "2021-05",
+        "end": "2022-05"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "visitor management",
+      "complaint handling",
+      "billing",
+      "punctuality",
+      "hardworking",
+      "MS Office"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "MS Office Certificate",
+      "Diploma in Hotel Management"
+    ],
+    "education": "Diploma",
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 15
+  },
+  "seconds": 40.5
+}

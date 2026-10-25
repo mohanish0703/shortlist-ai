@@ -1,0 +1,44 @@
+{
+  "extraction": {
+    "name": "Lakshmi Subramanian",
+    "jobs": [
+      {
+        "title": "Front Desk Executive",
+        "start": "2026-03",
+        "end": "present"
+      },
+      {
+        "title": "Guest Relations Executive",
+        "start": "2025-02",
+        "end": "2026-03"
+      },
+      {
+        "title": "Front Desk Executive",
+        "start": "2021-02",
+        "end": "2024-12"
+      }
+    ],
+    "stated_total_years": 5.5,
+    "skills": [
+      "guest check-in",
+      "MS Office",
+      "complaint handling"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Tamil",
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Diploma in Hotel Management",
+      "MS Office Certificate"
+    ],
+    "education": "12th",
+    "institution": "Model Higher Secondary School, Vellore",
+    "expected_salary_monthly_inr": 21500,
+    "notice_period_days": 45
+  },
+  "seconds": 1.82
+}

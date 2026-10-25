@@ -1,0 +1,39 @@
+{
+  "extraction": {
+    "name": "Snehal Kulkarni",
+    "jobs": [
+      {
+        "title": "Receptionist",
+        "start": "2025-03",
+        "end": "present"
+      },
+      {
+        "title": "Guest Relations Executive",
+        "start": "2023-07",
+        "end": "2025-02"
+      },
+      {
+        "title": "Front Desk Executive",
+        "start": "2020-10",
+        "end": "2023-04"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "complaint handling",
+      "billing",
+      "visitor management",
+      "guest check-in"
+    ],
+    "location": "Pune",
+    "languages": [],
+    "certifications": [
+      "Diploma in Hotel Management"
+    ],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 21500,
+    "notice_period_days": null
+  },
+  "seconds": 2.25
+}

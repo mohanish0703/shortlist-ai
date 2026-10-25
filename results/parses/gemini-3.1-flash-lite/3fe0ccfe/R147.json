@@ -1,0 +1,32 @@
+{
+  "extraction": {
+    "name": "Murugan Subramanian",
+    "jobs": [
+      {
+        "title": "Security Supervisor",
+        "start": "2022-08",
+        "end": "2026-09"
+      }
+    ],
+    "stated_total_years": 4.1,
+    "skills": [
+      "fire safety",
+      "emergency response",
+      "visitor management",
+      "CCTV monitoring",
+      "teamwork"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Tamil",
+      "English",
+      "Telugu"
+    ],
+    "certifications": [],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 18500,
+    "notice_period_days": 0
+  },
+  "seconds": 11.97
+}

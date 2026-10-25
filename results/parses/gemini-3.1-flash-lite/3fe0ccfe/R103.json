@@ -1,0 +1,34 @@
+{
+  "extraction": {
+    "name": "Swathi Naidu",
+    "jobs": [
+      {
+        "title": "Security Supervisor",
+        "start": "2025-04",
+        "end": "2026-09"
+      }
+    ],
+    "stated_total_years": 1.4,
+    "skills": [
+      "patrolling",
+      "visitor management",
+      "CCTV monitoring",
+      "emergency response",
+      "fire safety",
+      "teamwork",
+      "hardworking"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Telugu"
+    ],
+    "certifications": [
+      "Fire Safety Training"
+    ],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Hyderabad",
+    "expected_salary_monthly_inr": 16000,
+    "notice_period_days": null
+  },
+  "seconds": 17.93
+}

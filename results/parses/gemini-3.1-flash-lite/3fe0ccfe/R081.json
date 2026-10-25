@@ -1,0 +1,25 @@
+{
+  "extraction": {
+    "name": "Lakshmi S",
+    "jobs": [],
+    "stated_total_years": 0.0,
+    "skills": [
+      "customer handling",
+      "two-wheeler riding",
+      "route navigation",
+      "parcel handling"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Tamil"
+    ],
+    "certifications": [
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": "ITI",
+    "institution": null,
+    "expected_salary_monthly_inr": 18500,
+    "notice_period_days": 10
+  },
+  "seconds": 1.51
+}

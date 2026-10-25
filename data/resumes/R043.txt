@@ -1,0 +1,17 @@
+APPLICATION FORM
+
+Candidate Name      : Ayesha Shaikh
+Current City        : T. Nagar, Chennai
+Contact             : 91XXXXX391 / ayesha13@example.com
+Total Experience    : 1.9 years
+
+| Organisation | Designation | From | To |
+| SpeedyParcel Couriers | Bike Rider | April 2026 | August 2026 |
+| Annapoorna Foods | Bike Rider | October 2024 | March 2026 |
+| MetroMove Logistics | Delivery Boy | June 2024 | August 2024 |
+
+Key Skills          : route navigation / parcel handling / customer handling
+Languages           : Urdu (basic), Hindi (basic), Tamil (speak)
+Qualification       : SSC (Sri Saraswati Vidya Mandir, Hyderabad)
+Certificates        : Bike licence
+Expected Salary     : 15500

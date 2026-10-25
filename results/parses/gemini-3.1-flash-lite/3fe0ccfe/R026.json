@@ -1,0 +1,47 @@
+{
+  "extraction": {
+    "name": "Joseph Thomas",
+    "jobs": [
+      {
+        "title": "Customer Care Executive",
+        "start": "2024-12",
+        "end": "present"
+      },
+      {
+        "title": "Call Centre Agent",
+        "start": "2024-07",
+        "end": "2024-09"
+      },
+      {
+        "title": "Call Centre Agent",
+        "start": "2023-11",
+        "end": "2024-06"
+      }
+    ],
+    "stated_total_years": 2.6,
+    "skills": [
+      "typing",
+      "ticketing",
+      "email support",
+      "complaint handling",
+      "inbound calls",
+      "hardworking",
+      "teamwork"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Malayalam",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Typing Certificate",
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Kochi",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 45
+  },
+  "seconds": 3.34
+}

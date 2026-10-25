@@ -1,0 +1,36 @@
+{
+  "extraction": {
+    "name": "Rina Banerjee",
+    "jobs": [
+      {
+        "title": "Security Guard",
+        "start": "2023-03",
+        "end": "present"
+      },
+      {
+        "title": "Security Supervisor",
+        "start": "2021-11",
+        "end": "2022-12"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "patrolling",
+      "fire safety",
+      "visitor management",
+      "teamwork",
+      "punctuality"
+    ],
+    "location": "Calcutta",
+    "languages": [
+      "English",
+      "Telugu"
+    ],
+    "certifications": [],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 14500,
+    "notice_period_days": 0
+  },
+  "seconds": 1.81
+}

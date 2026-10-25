@@ -1,0 +1,30 @@
+{
+  "extraction": {
+    "name": "Snehal Pawar",
+    "jobs": [
+      {
+        "title": "Front Desk Executive",
+        "start": "2020-10",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": 6.0,
+    "skills": [
+      "inbound calls",
+      "complaint handling",
+      "visitor management",
+      "billing"
+    ],
+    "location": "Pune",
+    "languages": [],
+    "certifications": [
+      "Diploma in Hotel Management",
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Pune",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 3.05
+}

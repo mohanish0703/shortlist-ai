@@ -1,0 +1,39 @@
+{
+  "extraction": {
+    "name": "Bikash Gogoi",
+    "jobs": [
+      {
+        "title": "Security Supervisor",
+        "start": "2023-12",
+        "end": "2026-07"
+      },
+      {
+        "title": "Security Officer",
+        "start": "2020-11",
+        "end": "2023-12"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "emergency response",
+      "fire safety",
+      "patrolling",
+      "visitor management"
+    ],
+    "location": "Jaipur",
+    "languages": [
+      "Assamese",
+      "English",
+      "Hindi"
+    ],
+    "certifications": [
+      "First Aid Training",
+      "Fire Safety Training"
+    ],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Guwahati",
+    "expected_salary_monthly_inr": 18500,
+    "notice_period_days": null
+  },
+  "seconds": 1.72
+}

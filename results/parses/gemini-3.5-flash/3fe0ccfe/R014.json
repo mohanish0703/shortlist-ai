@@ -1,0 +1,36 @@
+{
+  "extraction": {
+    "name": "Neha Mishra",
+    "jobs": [
+      {
+        "title": "Cleaning Staff",
+        "start": "2023-06",
+        "end": "2026-05"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "machine scrubbing",
+      "bed making",
+      "room cleaning",
+      "laundry",
+      "bathroom sanitation",
+      "floor mopping",
+      "teamwork"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Fire Safety Training",
+      "PMKVY Housekeeping Attendant"
+    ],
+    "education": "10th",
+    "institution": "St. Anne's High School, Noida",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": null
+  },
+  "seconds": 2.39
+}

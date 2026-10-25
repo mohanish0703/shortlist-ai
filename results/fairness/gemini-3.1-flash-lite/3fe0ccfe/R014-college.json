@@ -1,0 +1,30 @@
+{
+  "name": "Neha Mishra",
+  "jobs": [
+    {
+      "title": "Cleaning Staff",
+      "start": "2023-06",
+      "end": "2026-05"
+    }
+  ],
+  "stated_total_years": null,
+  "skills": [
+    "floor mopping",
+    "room cleaning",
+    "laundry",
+    "teamwork"
+  ],
+  "location": "Noida",
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "certifications": [
+    "Fire Safety Training",
+    "PMKVY Housekeeping Attendant"
+  ],
+  "education": "10th",
+  "institution": "Sri Saraswati Vidya Mandir, Noida",
+  "expected_salary_monthly_inr": null,
+  "notice_period_days": null
+}

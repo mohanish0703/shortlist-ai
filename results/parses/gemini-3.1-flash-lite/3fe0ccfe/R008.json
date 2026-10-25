@@ -1,0 +1,46 @@
+{
+  "extraction": {
+    "name": "Sachin Kulkarni",
+    "jobs": [
+      {
+        "title": "Receptionist",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Front Desk Executive",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Front Desk Executive",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 4.3,
+    "skills": [
+      "billing",
+      "email correspondence",
+      "guest check-in",
+      "complaint handling",
+      "visitor management",
+      "teamwork",
+      "punctuality"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Marathi",
+      "English"
+    ],
+    "certifications": [
+      "Diploma in Hotel Management",
+      "MS Office Certificate"
+    ],
+    "education": "Diploma",
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 5.63
+}

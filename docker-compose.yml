@@ -1,0 +1,23 @@
+# docker compose up --build   ->  UI at http://localhost:8501, API docs at http://localhost:8000/docs
+services:
+  api:
+    build: .
+    env_file:
+      - path: .env
+        required: false  # without a key only the cached synthetic demo works
+    volumes:
+      - runs:/app/runs
+    ports:
+      - "8000:8000"
+  ui:
+    build: .
+    command: ["streamlit", "run", "src/shortlist/ui.py", "--server.address", "0.0.0.0"]
+    environment:
+      SHORTLIST_API: http://api:8000
+    depends_on:
+      - api
+    ports:
+      - "8501:8501"
+
+volumes:
+  runs:

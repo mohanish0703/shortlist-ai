@@ -1,0 +1,540 @@
+{
+  "R082": {
+    "text": "The candidate has 3.4 years of experience and lives in Noida. The expected salary of 25000 INR/month is within the allowed budget.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.4"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "25000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R024": {
+    "text": "The candidate has 4.9 years of experience and lives in Noida. The expected salary is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.9"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R107": {
+    "text": "The candidate has 3.8 years of experience and lives in Noida. All requirements are met.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.8"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R051": {
+    "text": "The candidate has 3.7 years of experience and lives in Noida. All requirements are met.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.7"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R079": {
+    "text": "The candidate has 1.1 years of experience and lives in Noida. All requirements are met.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.1"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R029": {
+    "text": "The candidate has 3.0 years of experience and lives in Noida. The notice period is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.0"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R135": {
+    "text": "The candidate has 2.9 years of experience and lives in Noida. The expected salary is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.9"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R118": {
+    "text": "The candidate has 2.4 years of experience and lives in Noida. The languages spoken are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.4"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "languages",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R025": {
+    "text": "The candidate has 1.9 years of experience and lives in Noida. The languages spoken are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.9"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "languages",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R007": {
+    "text": "The candidate has 4.8 years of experience. The candidate lives in Aligarh, which is not in Noida.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.8"
+      },
+      {
+        "field": "location",
+        "value": "Aligarh"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R143": {
+    "text": "The candidate has 4.8 years of experience. The location and expected salary are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.8"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R022": {
+    "text": "The candidate has 3.5 years of experience. The candidate lives in Meerut, which is not in Noida.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.5"
+      },
+      {
+        "field": "location",
+        "value": "Meerut"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R069": {
+    "text": "The candidate has 1.6 years of experience. The location is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.6"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R117": {
+    "text": "The candidate has 1.0 years of experience. The location and notice period are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.0"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R064": {
+    "text": "The candidate has 5.2 years of experience. The candidate lives in Meerut, and salary and notice period are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.2"
+      },
+      {
+        "field": "location",
+        "value": "Meerut"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R026": {
+    "text": "The candidate has 2.6 years of experience and lives in Noida. The notice period of 45 days exceeds the 30 days allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.6"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "45"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R111": {
+    "text": "The candidate has 5.3 years of experience. The candidate lives in Guwahati, which is not in Noida.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.3"
+      },
+      {
+        "field": "location",
+        "value": "Guwahati"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R034": {
+    "text": "The candidate has 4.2 years of experience and lives in Noida. The notice period of 90 days exceeds the 30 days allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.2"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "90"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R017": {
+    "text": "The candidate has 2.6 years of experience and lives in Noida. The notice period of 60 days exceeds the 30 days allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.6"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "60"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R035": {
+    "text": "The candidate has 4.3 years of experience and lives in Noida. The notice period of 60 days exceeds the 30 days allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.3"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "60"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R004": {
+    "text": "The candidate has 4.2 years of experience and lives in Noida. The notice period of 60 days exceeds the 30 days allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.2"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "60"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R099": {
+    "text": "The candidate has 3.9 years of experience and lives in Noida. The expected salary of 37500 INR/month exceeds the 26000 allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.9"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "37500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R121": {
+    "text": "The candidate has 5.3 years of experience and lives in Noida. The expected salary of 36000 INR/month exceeds the 26000 allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.3"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "36000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R048": {
+    "text": "The candidate has 4.2 years of experience and lives in Noida. The candidate does not speak Hindi, which is required.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.2"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "languages",
+        "value": "Tamil"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R091": {
+    "text": "The candidate has 1.6 years of experience and lives in Noida. The notice period of 90 days exceeds the 30 days allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.6"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "90"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R076": {
+    "text": "The candidate has 1.2 years of experience and lives in Noida. The notice period of 90 days exceeds the 30 days allowed.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.2"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "90"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R002": {
+    "text": "The candidate has 0.2 years of experience, which is below the 1 year required. The location is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.2"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R134": {
+    "text": "The candidate has 0.2 years of experience, which is below the 1 year required. The candidate lives in Aligarh, not Noida.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.2"
+      },
+      {
+        "field": "location",
+        "value": "Aligarh"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R014": {
+    "text": "The candidate has 2.9 years of experience and lives in Noida. The previous role of Cleaning Staff is unrelated to the required duties.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.9"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "job_titles",
+        "value": "Cleaning Staff"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R066": {
+    "text": "The candidate has 0.2 years of experience, which is below the 1 year required. The previous role of Data Entry Operator is less relevant.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.2"
+      },
+      {
+        "field": "location",
+        "value": "Noida"
+      },
+      {
+        "field": "job_titles",
+        "value": "Data Entry Operator"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "extraction": {
+    "name": "Neha Paswan",
+    "jobs": [
+      {
+        "title": "Customer Care Executive",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 4.25,
+    "skills": [
+      "typing",
+      "email support",
+      "complaint handling",
+      "CRM software",
+      "ticketing",
+      "inbound calls"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": null,
+    "expected_salary_monthly_inr": 19000,
+    "notice_period_days": 90
+  },
+  "seconds": 1.46
+}

@@ -1,0 +1,45 @@
+{
+  "extraction": {
+    "name": "Sagar Pawar",
+    "jobs": [
+      {
+        "title": "Guest Relations Executive",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Front Office Assistant",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Front Office Assistant",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 3.0,
+    "skills": [
+      "MS Office",
+      "email correspondence",
+      "visitor management",
+      "guest check-in",
+      "punctuality",
+      "hardworking"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Diploma in Hotel Management"
+    ],
+    "education": "Graduate",
+    "institution": null,
+    "expected_salary_monthly_inr": 40500,
+    "notice_period_days": 0
+  },
+  "seconds": 5.19
+}

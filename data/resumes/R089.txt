@@ -1,0 +1,15 @@
+APPLICATION FORM
+
+Candidate Name      : Kavya K
+Current City        : Hyderabad
+Conact             : 99XXXXX973 / kavya65@example.com
+Total Experience    : 5 years
+
+| Organisation | Designnation | From | To |
+| Medilife Diagnostics | Guet Relations Executive | 1.2022 | Till date |
+| Sunrise Dental Clinic | Guest Relations Executive | 9.2021 | 12.2021 |
+
+Key Skills          : visitor register / attending calls / MS Office / guest check-in / billing / complaint resolution / always on time / hard working
+Languages           : Kanada (read/write/speak), Hindi, English (read/write/speak)
+Qualification       : B.Sc (Sri Venkateshwara Degree College, Tumakuru)
+Certificates        : MS-CIT, Hotel Management diploma

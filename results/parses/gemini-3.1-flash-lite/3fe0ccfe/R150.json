@@ -1,0 +1,36 @@
+{
+  "extraction": {
+    "name": "Manjunath Shetty",
+    "jobs": [
+      {
+        "title": "Kitchen Helper",
+        "start": "2025-03",
+        "end": "present"
+      },
+      {
+        "title": "Kitchen Helper",
+        "start": "2024-06",
+        "end": "2024-12"
+      },
+      {
+        "title": "Kitchen Helper",
+        "start": "2022-01",
+        "end": "2024-05"
+      }
+    ],
+    "stated_total_years": 4.4,
+    "skills": [],
+    "location": "Bengaluru",
+    "languages": [
+      "Kannada"
+    ],
+    "certifications": [
+      "Fire Safety Training"
+    ],
+    "education": "Below 10th",
+    "institution": "Zilla Parishad School, Bengaluru",
+    "expected_salary_monthly_inr": 13500,
+    "notice_period_days": 20
+  },
+  "seconds": 9.13
+}

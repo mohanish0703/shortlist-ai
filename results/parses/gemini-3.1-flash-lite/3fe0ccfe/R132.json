@@ -1,0 +1,27 @@
+{
+  "extraction": {
+    "name": "Arun S",
+    "jobs": [],
+    "stated_total_years": 0.0,
+    "skills": [
+      "punctuality",
+      "teamwork",
+      "two-wheeler riding"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Tamil",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "LMV Driving Licence",
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": "12th",
+    "institution": "Model Higher Secondary School, Chennai",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 1.5
+}

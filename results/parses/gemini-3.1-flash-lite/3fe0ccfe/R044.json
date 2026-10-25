@@ -1,0 +1,30 @@
+{
+  "extraction": {
+    "name": "Nagaraj K",
+    "jobs": [
+      {
+        "title": "Room Attendant",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Room Attendant",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 4.16,
+    "skills": [],
+    "location": "Bangalore",
+    "languages": [],
+    "certifications": [
+      "Fire Safety Training",
+      "First Aid Training"
+    ],
+    "education": "ITI",
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 7
+  },
+  "seconds": 1.58
+}

@@ -1,0 +1,31 @@
+{
+  "extraction": {
+    "name": "Karthik Subramanian",
+    "jobs": [
+      {
+        "title": "Delivery Associate",
+        "start": "2026-07",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "parcel handling",
+      "cash handling",
+      "Google Maps",
+      "two-wheeler riding",
+      "hardworking",
+      "punctuality"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Tamil"
+    ],
+    "certifications": [],
+    "education": "12th",
+    "institution": "Govt. Junior College, Chennai",
+    "expected_salary_monthly_inr": 33000,
+    "notice_period_days": null
+  },
+  "seconds": 1.86
+}

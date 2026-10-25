@@ -1,0 +1,36 @@
+{
+  "extraction": {
+    "name": "Ganesh Kulkarni",
+    "jobs": [
+      {
+        "title": "Receptionist",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Front Desk Executive",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 2.66,
+    "skills": [
+      "billing",
+      "guest check-in",
+      "MS Office",
+      "hardworking",
+      "punctuality"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Marathi",
+      "English"
+    ],
+    "certifications": [],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": null
+  },
+  "seconds": 24.42
+}

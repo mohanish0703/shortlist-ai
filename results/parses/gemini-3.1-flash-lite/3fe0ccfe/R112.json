@@ -1,0 +1,42 @@
+{
+  "extraction": {
+    "name": "Anu Varghese",
+    "jobs": [
+      {
+        "title": "Guest Relations Executive",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Receptionist",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Front Office Assistant",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 5.5,
+    "skills": [
+      "email correspondence",
+      "guest check-in",
+      "billing",
+      "hardworking"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Malayalam",
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "Diploma",
+    "institution": null,
+    "expected_salary_monthly_inr": 24000,
+    "notice_period_days": 60
+  },
+  "seconds": 2.04
+}

@@ -1,0 +1,17 @@
+APPLICATION FORM
+
+Candidate Name      : Manjunath Shetty
+Current City        : Electronic City, Bengaluru
+Contact             : 95XXXXX881 / manjunath79@example.com
+Total Experience    : 4.4 years
+
+| Organisation | Designation | From | To |
+| Sparkle Facility Services | Kitchen Helper | Mar-25 | Present |
+| Lotus Multispeciality Hospital | Kitchen Helper | Jun-24 | Dec-24 |
+| Green Valley Apartments | Kitchen Helper | Jan-22 | May-24 |
+
+Languages           : Kanada
+Qualification       : Below SSLC (Zilla Parishad School, Bengaluru)
+Certificates        : Fire Safety training
+Expected Salary     : INR 13,500 pm
+Notice Period       : 20 days

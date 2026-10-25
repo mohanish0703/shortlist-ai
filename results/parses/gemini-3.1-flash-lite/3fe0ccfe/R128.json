@@ -1,0 +1,33 @@
+{
+  "extraction": {
+    "name": "Deepa Patil",
+    "jobs": [
+      {
+        "title": "Housekeeping Staff",
+        "start": "2025-10",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": 1.0,
+    "skills": [
+      "room cleaning",
+      "floor mopping",
+      "bed making",
+      "hardworking"
+    ],
+    "location": null,
+    "languages": [
+      "Kannada",
+      "English"
+    ],
+    "certifications": [
+      "PMKVY Housekeeping Attendant",
+      "First Aid Training"
+    ],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 1.6
+}

@@ -1,0 +1,34 @@
+{
+  "extraction": {
+    "name": "Sachin Patil",
+    "jobs": [
+      {
+        "title": "Front Office Assistant",
+        "start": "2021-06",
+        "end": "present"
+      },
+      {
+        "title": "Guest Relations Executive",
+        "start": "2020-09",
+        "end": "2021-04"
+      }
+    ],
+    "stated_total_years": 5.9,
+    "skills": [],
+    "location": "Pune",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Diploma in Hotel Management",
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Pune",
+    "expected_salary_monthly_inr": 21500,
+    "notice_period_days": null
+  },
+  "seconds": 11.0
+}

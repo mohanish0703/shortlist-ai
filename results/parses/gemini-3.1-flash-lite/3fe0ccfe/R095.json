@@ -1,0 +1,36 @@
+{
+  "extraction": {
+    "name": "Sachin Patil",
+    "jobs": [
+      {
+        "title": "Front Desk Executive",
+        "start": "2024-01",
+        "end": "2026-06"
+      },
+      {
+        "title": "Front Office Assistant",
+        "start": "2023-07",
+        "end": "2023-12"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "visitor management",
+      "complaint handling",
+      "inbound calls",
+      "billing",
+      "hardworking"
+    ],
+    "location": "Pune",
+    "languages": [],
+    "certifications": [
+      "Diploma in Hotel Management",
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Pune",
+    "expected_salary_monthly_inr": 16500,
+    "notice_period_days": 15
+  },
+  "seconds": 1.49
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Basavaraj Naik",
+  "jobs": [
+    {
+      "title": "Room Attendant",
+      "start": "2024-10",
+      "end": "present"
+    },
+    {
+      "title": "Housekeeping Attendant",
+      "start": "2021-10",
+      "end": "2024-09"
+    },
+    {
+      "title": "Housekeeping Staff",
+      "start": "2020-09",
+      "end": "2021-07"
+    }
+  ],
+  "stated_total_years": 5.8,
+  "skills": [
+    "floor mopping",
+    "laundry",
+    "machine scrubbing",
+    "chemical handling",
+    "room cleaning",
+    "bed making",
+    "teamwork",
+    "hardworking"
+  ],
+  "location": "Bangalore",
+  "languages": [
+    "Kannada",
+    "Hindi"
+  ],
+  "certifications": [
+    "First Aid Training",
+    "Fire Safety Training"
+  ],
+  "education": "10th",
+  "institution": "Govt. High School, Bengaluru",
+  "expected_salary_monthly_inr": 13000,
+  "notice_period_days": 15
+}

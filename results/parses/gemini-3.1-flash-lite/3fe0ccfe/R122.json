@@ -1,0 +1,39 @@
+{
+  "extraction": {
+    "name": "Snehal Pawar",
+    "jobs": [
+      {
+        "title": "Telecaller",
+        "start": "2025-12",
+        "end": "present"
+      },
+      {
+        "title": "Data Entry Operator",
+        "start": "2025-06",
+        "end": "2025-12"
+      },
+      {
+        "title": "Telecaller",
+        "start": "2022-11",
+        "end": "2025-04"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "punctuality",
+      "teamwork"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "Diploma",
+    "institution": "Institute of Hotel Management Studies, Pune",
+    "expected_salary_monthly_inr": 22500,
+    "notice_period_days": 15
+  },
+  "seconds": 1.62
+}

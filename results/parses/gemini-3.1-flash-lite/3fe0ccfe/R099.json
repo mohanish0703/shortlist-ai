@@ -1,0 +1,39 @@
+{
+  "extraction": {
+    "name": "Ramesh Devi",
+    "jobs": [
+      {
+        "title": "CSR",
+        "start": "2026-01",
+        "end": "2026-06"
+      },
+      {
+        "title": "CSR",
+        "start": "2022-05",
+        "end": "2025-11"
+      }
+    ],
+    "stated_total_years": 3.9,
+    "skills": [
+      "CRM software",
+      "typing",
+      "inbound calls",
+      "email support",
+      "ticketing"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Typing Certificate",
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Noida",
+    "expected_salary_monthly_inr": 37500,
+    "notice_period_days": 15
+  },
+  "seconds": 1.72
+}

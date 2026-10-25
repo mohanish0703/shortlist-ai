@@ -1,0 +1,38 @@
+{
+  "extraction": {
+    "name": "Reshma Thomas",
+    "jobs": [
+      {
+        "title": "Security Officer",
+        "start": "2025-02",
+        "end": "present"
+      },
+      {
+        "title": "Security Officer",
+        "start": "2024-10",
+        "end": "2025-01"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "emergency response",
+      "fire safety",
+      "CCTV monitoring",
+      "visitor management",
+      "hardworking"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Hindi"
+    ],
+    "certifications": [
+      "Fire Safety Training",
+      "PSARA Security Training"
+    ],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 19500,
+    "notice_period_days": 7
+  },
+  "seconds": 1.81
+}

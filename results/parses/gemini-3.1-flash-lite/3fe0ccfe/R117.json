@@ -1,0 +1,30 @@
+{
+  "extraction": {
+    "name": "Suresh Verma",
+    "jobs": [
+      {
+        "title": "Customer Care Executive",
+        "start": "2025-10",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "email support",
+      "typing",
+      "CRM software",
+      "punctuality"
+    ],
+    "location": null,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "12th",
+    "institution": "Model Higher Secondary School, Patna",
+    "expected_salary_monthly_inr": 25000,
+    "notice_period_days": null
+  },
+  "seconds": 1.51
+}

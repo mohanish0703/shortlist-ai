@@ -1,0 +1,44 @@
+{
+  "extraction": {
+    "name": "Ashwini Kulkarni",
+    "jobs": [
+      {
+        "title": "Guest Relations Executive",
+        "start": "2025-10",
+        "end": "present"
+      },
+      {
+        "title": "Front Office Assistant",
+        "start": "2025-05",
+        "end": "2025-07"
+      },
+      {
+        "title": "Receptionist",
+        "start": "2023-11",
+        "end": "2025-02"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "email correspondence",
+      "complaint handling",
+      "MS Office",
+      "teamwork",
+      "hardworking"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": "Govt. Arts & Science College, Pune",
+    "expected_salary_monthly_inr": 25000,
+    "notice_period_days": 60
+  },
+  "seconds": 2.06
+}

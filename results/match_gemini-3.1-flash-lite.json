@@ -1,0 +1,138 @@
+{
+  "note": "SYNTHETIC resumes; title calls compared with the generator's role catalog",
+  "model": "gemini-3.1-flash-lite",
+  "title_prompt_id": "544e6b03",
+  "parse_prompt_id": "3fe0ccfe",
+  "title_calls": {
+    "pairs": 39,
+    "agree_with_catalog": 0.769,
+    "confusion_catalog_vs_llm": {
+      "different": {
+        "different": 8,
+        "related": 5
+      },
+      "related": {
+        "related": 4,
+        "different": 3
+      },
+      "same": {
+        "same": 18,
+        "related": 1
+      }
+    },
+    "disagreements": [
+      {
+        "job": "Receptionist",
+        "title": "Customer Care Executive",
+        "catalog": "different",
+        "llm": "related",
+        "reason": "Involves direct customer interaction and communication skills which are transferable to a hotel front desk."
+      },
+      {
+        "job": "Receptionist",
+        "title": "Customer Support Executive",
+        "catalog": "different",
+        "llm": "related",
+        "reason": "Requires handling customer inquiries and professional communication, similar to hotel reception duties."
+      },
+      {
+        "job": "Receptionist",
+        "title": "Data Entry Operator",
+        "catalog": "related",
+        "llm": "different",
+        "reason": "Focuses primarily on typing and database management rather than the interpersonal and guest-facing skills required for a receptionist."
+      },
+      {
+        "job": "Receptionist",
+        "title": "Telecaller",
+        "catalog": "related",
+        "llm": "different",
+        "reason": "Primarily focused on outbound calling rather than the face-to-face guest management required for a hotel front desk."
+      },
+      {
+        "job": "Security Guard",
+        "title": "Front Office Assistant",
+        "catalog": "different",
+        "llm": "related",
+        "reason": "This role involves visitor management and access control, which are key components of security work."
+      },
+      {
+        "job": "Security Guard",
+        "title": "Guest Relations Executive",
+        "catalog": "different",
+        "llm": "related",
+        "reason": "This role involves managing visitor entry and site presence, which overlaps with security duties."
+      },
+      {
+        "job": "Security Guard",
+        "title": "Office Boy",
+        "catalog": "related",
+        "llm": "different",
+        "reason": "This role focuses on administrative support and errands rather than security operations."
+      },
+      {
+        "job": "Security Guard",
+        "title": "Receptionist",
+        "catalog": "different",
+        "llm": "related",
+        "reason": "This role involves monitoring entry points and managing visitors, which is relevant to security."
+      },
+      {
+        "job": "Delivery Executive",
+        "title": "Bike Rider",
+        "catalog": "same",
+        "llm": "related",
+        "reason": "Involves operating a two-wheeler, which is the primary requirement for the delivery role."
+      }
+    ]
+  },
+  "checks_same_on_parsed_as_on_truth": {
+    "role": 1.0,
+    "experience": 1.0,
+    "location": 1.0,
+    "languages": 0.987,
+    "certifications": 1.0,
+    "salary": 1.0,
+    "notice": 0.993
+  },
+  "check_status_on_parsed": {
+    "role": {
+      "pass": 132,
+      "fail": 7,
+      "soft": 8,
+      "unknown": 3
+    },
+    "experience": {
+      "pass": 137,
+      "fail": 7,
+      "soft": 6
+    },
+    "location": {
+      "pass": 121,
+      "unknown": 15,
+      "soft": 7,
+      "fail": 7
+    },
+    "languages": {
+      "pass": 128,
+      "unknown": 19,
+      "fail": 3
+    },
+    "certifications": {
+      "pass": 146,
+      "soft": 4
+    },
+    "salary": {
+      "pass": 82,
+      "unknown": 45,
+      "soft": 4,
+      "fail": 19
+    },
+    "notice": {
+      "pass": 94,
+      "unknown": 35,
+      "fail": 11,
+      "soft": 10
+    }
+  }
+}

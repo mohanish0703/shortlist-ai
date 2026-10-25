@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "name": "Ayesha Khan",
+    "jobs": [
+      {
+        "title": "Room Attendant",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Cleaning Staff",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 5.33,
+    "skills": [
+      "floor mopping",
+      "machine scrubbing",
+      "laundry",
+      "bathroom sanitation",
+      "bed making"
+    ],
+    "location": "Bangalore",
+    "languages": [
+      "Urdu",
+      "Hindi",
+      "Kannada"
+    ],
+    "certifications": [
+      "First Aid Training",
+      "Fire Safety Training"
+    ],
+    "education": "ITI",
+    "institution": null,
+    "expected_salary_monthly_inr": 14500,
+    "notice_period_days": 0
+  },
+  "seconds": 6.61
+}

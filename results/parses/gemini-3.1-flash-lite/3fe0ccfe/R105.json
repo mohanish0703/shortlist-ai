@@ -1,0 +1,29 @@
+{
+  "extraction": {
+    "name": "Bikash Gogoi",
+    "jobs": [],
+    "stated_total_years": 0.0,
+    "skills": [
+      "two-wheeler riding",
+      "cash handling",
+      "parcel handling",
+      "teamwork",
+      "hardworking"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Assamese",
+      "Tamil",
+      "Hindi"
+    ],
+    "certifications": [
+      "LMV Driving Licence",
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": "12th",
+    "institution": "Model Higher Secondary School, Guwahati",
+    "expected_salary_monthly_inr": 15500,
+    "notice_period_days": 0
+  },
+  "seconds": 1.95
+}

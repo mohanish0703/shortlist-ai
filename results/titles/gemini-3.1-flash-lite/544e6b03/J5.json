@@ -1,0 +1,37 @@
+{
+  "csr": {
+    "title": "CSR",
+    "relation": "same",
+    "reason": "CSR is a standard abbreviation for Customer Service Representative, which is the same role."
+  },
+  "call centre agent": {
+    "title": "Call Centre Agent",
+    "relation": "same",
+    "reason": "This role involves the same voice-based customer support duties as the target job."
+  },
+  "cleaning staff": {
+    "title": "Cleaning Staff",
+    "relation": "different",
+    "reason": "This role involves manual labor and is unrelated to voice-based customer support."
+  },
+  "customer care executive": {
+    "title": "Customer Care Executive",
+    "relation": "same",
+    "reason": "This is a synonymous job title for a customer support executive."
+  },
+  "customer support executive": {
+    "title": "Customer Support Executive",
+    "relation": "same",
+    "reason": "This is the exact same job title as the one being filled."
+  },
+  "customer support representative": {
+    "title": "Customer Support Representative",
+    "relation": "same",
+    "reason": "This is a standard title for the same customer support function."
+  },
+  "data entry operator": {
+    "title": "Data Entry Operator",
+    "relation": "related",
+    "reason": "While primarily administrative, it involves computer skills and office environment experience that can transfer to support roles."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "extraction": {
+    "name": "Ashwini Shinde",
+    "jobs": [
+      {
+        "title": "Front Office Assistant",
+        "start": "2025-02",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": 1.7,
+    "skills": [
+      "phone handling",
+      "complaint handling",
+      "visitor management",
+      "punctuality"
+    ],
+    "location": "Lonavla",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "MS Office Certificate",
+      "Diploma in Hotel Management"
+    ],
+    "education": "Diploma",
+    "institution": "Institute of Hotel Management Studis, Lonavala",
+    "expected_salary_monthly_inr": 15000,
+    "notice_period_days": null
+  },
+  "seconds": 19.96
+}

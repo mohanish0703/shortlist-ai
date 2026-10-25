@@ -1,0 +1,30 @@
+{
+  "extraction": {
+    "name": "Rajesh Mishra",
+    "jobs": [
+      {
+        "title": "Customer Support Executive",
+        "start": "2026-02",
+        "end": "2026-05"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "email support",
+      "CRM software",
+      "complaint handling",
+      "typing"
+    ],
+    "location": null,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Jaipur",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": null
+  },
+  "seconds": 2.06
+}

@@ -1,0 +1,33 @@
+{
+  "extraction": {
+    "name": "Swathi Varma",
+    "jobs": [
+      {
+        "title": "Security Supervisor",
+        "start": "2023-11",
+        "end": "2026-09"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "fire safety",
+      "patrolling",
+      "CCTV monitoring",
+      "visitor management",
+      "emergency response",
+      "punctuality",
+      "teamwork"
+    ],
+    "location": null,
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "certifications": [],
+    "education": "12th",
+    "institution": "Govt. Junior College, Warangal",
+    "expected_salary_monthly_inr": 19500,
+    "notice_period_days": 10
+  },
+  "seconds": 1.87
+}

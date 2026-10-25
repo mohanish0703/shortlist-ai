@@ -1,0 +1,38 @@
+{
+  "extraction": {
+    "name": "Basavaraj M",
+    "jobs": [
+      {
+        "title": "Housekeeping Attendant",
+        "start": "2025-10",
+        "end": "present"
+      },
+      {
+        "title": "Room Attendant",
+        "start": "2024-02",
+        "end": "2025-10"
+      }
+    ],
+    "stated_total_years": 2.7,
+    "skills": [
+      "floor mopping",
+      "laundry",
+      "bathroom sanitation",
+      "chemical handling",
+      "bed making",
+      "punctuality",
+      "hardworking"
+    ],
+    "location": "Bangalore",
+    "languages": [
+      "Kannada",
+      "Hindi"
+    ],
+    "certifications": [],
+    "education": "ITI",
+    "institution": "Vishwakarma Private ITI, Bengaluru",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 15
+  },
+  "seconds": 4.81
+}

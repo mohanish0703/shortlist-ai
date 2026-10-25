@@ -1,0 +1,35 @@
+{
+  "extraction": {
+    "name": "Pooja Singh",
+    "jobs": [
+      {
+        "title": "Customer Support Executive",
+        "start": "2026-04",
+        "end": "present"
+      },
+      {
+        "title": "CSR",
+        "start": "2021-05",
+        "end": "2026-02"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "inbound calls",
+      "ticketing",
+      "typing",
+      "complaint handling"
+    ],
+    "location": "Meerut",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Meerut",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": null
+  },
+  "seconds": 1.48
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Srinivas Reddy",
+  "jobs": [
+    {
+      "title": "Security Guard",
+      "start": "2025-05",
+      "end": "2026-08"
+    },
+    {
+      "title": "Security Supervisor",
+      "start": "2024-05",
+      "end": "2025-05"
+    }
+  ],
+  "stated_total_years": 2.2,
+  "skills": [
+    "visitor management",
+    "fire safety",
+    "access control"
+  ],
+  "location": "Hyderabad",
+  "languages": [
+    "Telugu"
+  ],
+  "certifications": [
+    "First Aid Training"
+  ],
+  "education": "12th",
+  "institution": "Govt. Junior College, Hyderabad",
+  "expected_salary_monthly_inr": 18000,
+  "notice_period_days": 0
+}

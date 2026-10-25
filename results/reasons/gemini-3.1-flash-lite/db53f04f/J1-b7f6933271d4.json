@@ -1,0 +1,560 @@
+{
+  "R074": {
+    "text": "Basavaraj Naik has 5.8 years of relevant experience and meets all requirements, including location and language skills. His salary expectation is well within the budget.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.8"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "languages",
+        "value": "[\"Kannada\", \"Hindi\"]"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "13000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R139": {
+    "text": "Ayesha Khan is a strong candidate with 5.3 years of experience and immediate availability. She meets all location and language requirements.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.3"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "0"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "languages",
+        "value": "[\"Urdu\", \"Hindi\", \"Kannada\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R106": {
+    "text": "Snehal More has 1.4 years of experience and is based in Bengaluru. She meets all language requirements and her salary expectation is within the allowed limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.4"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "languages",
+        "value": "[\"Marathi\", \"Kannada\", \"Hindi\"]"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "17000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R061": {
+    "text": "Manjunath Shetty has 4.4 years of experience and is immediately available. He meets all location and language requirements.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.4"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "0"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "languages",
+        "value": "[\"Kannada\", \"Hindi\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R149": {
+    "text": "Subhajit Ghosh has 2.4 years of experience and is immediately available. He meets all location and language requirements.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.4"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "0"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "languages",
+        "value": "[\"Bengali\", \"Kannada\", \"Hindi\", \"English\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R027": {
+    "text": "Basavaraj M has 2.7 years of experience and is based in Bengaluru. His salary expectation is not stated, which may require clarification.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.7"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R140": {
+    "text": "Raghavendra K has 4.8 years of experience and meets all location and language requirements. His notice period is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.8"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "languages",
+        "value": "[\"Kannada\"]"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R013": {
+    "text": "Salim Qureshi has 4.3 years of experience and is immediately available. However, his languages are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.3"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "0"
+      },
+      {
+        "field": "languages",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R116": {
+    "text": "Raghavendra Naik has 3.8 years of experience and is available on short notice. His current location is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.8"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "7"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R102": {
+    "text": "Pooja Paswan has 2.9 years of experience and is immediately available. Her current location is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.9"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "0"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R056": {
+    "text": "Basavaraj M has 1.9 years of experience and is immediately available. His current location and salary expectations are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.9"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "0"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R120": {
+    "text": "Raghavendra Gowda has 4.3 years of experience and is based in Bengaluru. His salary expectation exceeds the allowed limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.3"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "19500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R044": {
+    "text": "Nagaraj K has 4.2 years of experience and is based in Bengaluru. His languages and salary expectations are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.2"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "languages",
+        "value": "not stated"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R128": {
+    "text": "Deepa Patil has 1 year of experience and is immediately available. Her current location and salary expectations are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.0"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "0"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R100": {
+    "text": "Basavaraj Hegde has 2.2 years of experience and is based in Bengaluru. His languages, salary, and notice period are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.2"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "languages",
+        "value": "not stated"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R063": {
+    "text": "Deepa Naik has 4.7 years of experience and is based in Bengaluru. Her notice period is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.7"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R018": {
+    "text": "Nagaraj Shetty has 1.3 years of experience and is immediately available. He is based in Mysuru, which is near Bengaluru.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.3"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "0"
+      },
+      {
+        "field": "location",
+        "value": "Mysuru"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R150": {
+    "text": "Manjunath Shetty has 4.4 years of experience and is based in Bengaluru. His notice period exceeds the allowed limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.4"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "20"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R057": {
+    "text": "Subhajit Das has 4.6 years of experience, but his salary expectation of 20000 INR/month exceeds the allowed limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.6"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "20000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R088": {
+    "text": "Smruti Patnaik has 4.5 years of experience, but her salary expectation of 32500 INR/month significantly exceeds the allowed limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.5"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "32500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R073": {
+    "text": "Reshma Thomas has 2.8 years of experience, but her notice period of 45 days exceeds the allowed limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.8"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "45"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R119": {
+    "text": "Manjunath K has 4.9 years of experience, but his salary expectation of 26000 INR/month exceeds the allowed limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.9"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "26000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R113": {
+    "text": "Basavaraj Hegde has 3.5 years of experience, but his salary expectation of 20000 INR/month exceeds the allowed limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.5"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "20000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R093": {
+    "text": "Kavya Naik has 5.7 years of experience, but her previous role as a Front Office Assistant is not relevant to the housekeeping role.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.7"
+      },
+      {
+        "field": "job_titles",
+        "value": "[\"Front Office Assistant\", \"Guest Relations Executive\", \"Receptionist\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R058": {
+    "text": "Basavaraj Shetty has 2.8 years of experience, but his salary expectation of 29000 INR/month exceeds the allowed limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.8"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "29000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R138": {
+    "text": "Manjunath Naik has 5.2 years of experience, but his notice period of 90 days exceeds the allowed limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.2"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "90"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R142": {
+    "text": "Shilpa Naik has 4.9 years of experience, but her salary expectation of 26000 INR/month exceeds the allowed limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.9"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "26000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R144": {
+    "text": "Amit Kumar has no previous job experience, which does not meet the 1+ year requirement.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R125": {
+    "text": "Amit Paswan has 1.5 years of experience, but he is based in Indore, not Bengaluru.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.5"
+      },
+      {
+        "field": "location",
+        "value": "Indore"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R115": {
+    "text": "Deepa K has only 0.4 years of experience, which does not meet the 1+ year requirement.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "0.4"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  }
+}

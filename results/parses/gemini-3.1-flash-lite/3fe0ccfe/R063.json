@@ -1,0 +1,38 @@
+{
+  "extraction": {
+    "name": "Deepa Naik",
+    "jobs": [
+      {
+        "title": "Office Boy",
+        "start": "2025-10",
+        "end": "2026-05"
+      },
+      {
+        "title": "Kitchen Helper",
+        "start": "2025-03",
+        "end": "2025-07"
+      },
+      {
+        "title": "Laundry Assistant",
+        "start": "2021-04",
+        "end": "2025-01"
+      }
+    ],
+    "stated_total_years": 4.7,
+    "skills": [
+      "floor mopping",
+      "hardworking",
+      "teamwork"
+    ],
+    "location": "Bangalore",
+    "languages": [
+      "Kannada"
+    ],
+    "certifications": [],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 16500,
+    "notice_period_days": null
+  },
+  "seconds": 1.57
+}

@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "name": "Rajesh Yadav",
+    "jobs": [
+      {
+        "title": "Customer Support Executive",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "CSR",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 3.0,
+    "skills": [
+      "typing",
+      "ticketing",
+      "complaint handling",
+      "email support",
+      "CRM software",
+      "teamwork"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Typing Certificate",
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": null,
+    "expected_salary_monthly_inr": 23000,
+    "notice_period_days": null
+  },
+  "seconds": 2.45
+}

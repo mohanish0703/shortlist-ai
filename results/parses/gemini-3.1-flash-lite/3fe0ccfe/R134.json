@@ -1,0 +1,30 @@
+{
+  "extraction": {
+    "name": "Ramesh Sharma",
+    "jobs": [
+      {
+        "title": "Customer Care Executive",
+        "start": "2026-03",
+        "end": "2026-06"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "CRM software",
+      "ticketing",
+      "inbound calls",
+      "hardworking"
+    ],
+    "location": "Aligarh",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "Graduate",
+    "institution": "Govt. Arts & Science College, Aligarh",
+    "expected_salary_monthly_inr": 17000,
+    "notice_period_days": 15
+  },
+  "seconds": 1.34
+}

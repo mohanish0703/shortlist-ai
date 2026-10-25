@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "name": "Lakshmi Raja",
+    "jobs": [
+      {
+        "title": "Call Centre Agent",
+        "start": "2022-06",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": 4.3,
+    "skills": [
+      "ticketing",
+      "complaint handling",
+      "email support",
+      "inbound calls",
+      "CRM software",
+      "punctuality",
+      "teamwork"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Tamil",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Typing Certificate",
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Chennai",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 60
+  },
+  "seconds": 2.15
+}

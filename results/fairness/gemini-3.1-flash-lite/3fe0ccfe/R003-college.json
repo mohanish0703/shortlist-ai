@@ -1,0 +1,38 @@
+{
+  "name": "Pallavi More",
+  "jobs": [
+    {
+      "title": "Delivery Boy",
+      "start": "2024-08",
+      "end": "present"
+    },
+    {
+      "title": "Bike Rider",
+      "start": "2022-10",
+      "end": "2024-07"
+    }
+  ],
+  "stated_total_years": null,
+  "skills": [
+    "parcel handling",
+    "two-wheeler riding",
+    "cash handling",
+    "route navigation",
+    "punctuality",
+    "hardworking"
+  ],
+  "location": "Madras",
+  "languages": [
+    "Marathi",
+    "Tamil",
+    "Hindi"
+  ],
+  "certifications": [
+    "LMV Driving Licence",
+    "Two-Wheeler Driving Licence"
+  ],
+  "education": "Graduate",
+  "institution": "Sri Venkateshwara Degree College, Satara",
+  "expected_salary_monthly_inr": 24000,
+  "notice_period_days": null
+}

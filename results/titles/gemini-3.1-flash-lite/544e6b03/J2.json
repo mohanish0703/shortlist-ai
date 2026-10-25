@@ -1,0 +1,42 @@
+{
+  "customer care executive": {
+    "title": "Customer Care Executive",
+    "relation": "related",
+    "reason": "Involves direct customer interaction and communication skills which are transferable to a hotel front desk."
+  },
+  "customer support executive": {
+    "title": "Customer Support Executive",
+    "relation": "related",
+    "reason": "Requires handling customer inquiries and professional communication, similar to hotel reception duties."
+  },
+  "data entry operator": {
+    "title": "Data Entry Operator",
+    "relation": "different",
+    "reason": "Focuses primarily on typing and database management rather than the interpersonal and guest-facing skills required for a receptionist."
+  },
+  "front desk executive": {
+    "title": "Front Desk Executive",
+    "relation": "same",
+    "reason": "This is essentially the same role as a hotel receptionist, involving direct guest management."
+  },
+  "front office assistant": {
+    "title": "Front Office Assistant",
+    "relation": "same",
+    "reason": "This role is functionally identical to a receptionist in a hotel setting."
+  },
+  "guest relations executive": {
+    "title": "Guest Relations Executive",
+    "relation": "same",
+    "reason": "This role involves managing guest experiences and front-of-house operations, which is the core of a receptionist's job."
+  },
+  "receptionist": {
+    "title": "Receptionist",
+    "relation": "same",
+    "reason": "This is the exact title of the job being filled."
+  },
+  "telecaller": {
+    "title": "Telecaller",
+    "relation": "different",
+    "reason": "Primarily focused on outbound calling rather than the face-to-face guest management required for a hotel front desk."
+  }
+}

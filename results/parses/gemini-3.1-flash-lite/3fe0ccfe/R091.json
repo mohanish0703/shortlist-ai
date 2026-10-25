@@ -1,0 +1,38 @@
+{
+  "extraction": {
+    "name": "Rekha Devi",
+    "jobs": [
+      {
+        "title": "Call Centre Agent",
+        "start": "2026-02",
+        "end": "present"
+      },
+      {
+        "title": "CSR",
+        "start": "2024-12",
+        "end": "2025-11"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "typing",
+      "inbound calls",
+      "email support",
+      "CRM software",
+      "ticketing",
+      "punctuality",
+      "teamwork"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "Postgraduate",
+    "institution": "Regional Institute of Commerce, Noida",
+    "expected_salary_monthly_inr": 22500,
+    "notice_period_days": 90
+  },
+  "seconds": 1.51
+}

@@ -1,0 +1,28 @@
+{
+  "extraction": {
+    "name": "Sachin Patil",
+    "jobs": [
+      {
+        "title": "Receptionist",
+        "start": "2020-05",
+        "end": "2026-06"
+      }
+    ],
+    "stated_total_years": 6.1,
+    "skills": [
+      "complaint handling",
+      "email correspondence",
+      "hardworking"
+    ],
+    "location": "Pune",
+    "languages": [],
+    "certifications": [
+      "Diploma in Hotel Management"
+    ],
+    "education": "Graduate",
+    "institution": "Govt. Arts & Science College, Pune",
+    "expected_salary_monthly_inr": 21000,
+    "notice_period_days": 0
+  },
+  "seconds": 1.28
+}

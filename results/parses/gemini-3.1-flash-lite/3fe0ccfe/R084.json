@@ -1,0 +1,34 @@
+{
+  "extraction": {
+    "name": "Ananya Mohanty",
+    "jobs": [
+      {
+        "title": "Customer Support Executive",
+        "start": "2025-04",
+        "end": "2026-05"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "email support",
+      "inbound calls",
+      "complaint handling",
+      "CRM software",
+      "typing",
+      "ticketing",
+      "punctuality"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Hindi",
+      "English",
+      "Tamil"
+    ],
+    "certifications": [],
+    "education": "Postgraduate",
+    "institution": "Regional Institute of Commerce, Bhubaneswar",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 7
+  },
+  "seconds": 1.86
+}

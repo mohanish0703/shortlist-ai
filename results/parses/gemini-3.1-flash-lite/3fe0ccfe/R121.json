@@ -1,0 +1,39 @@
+{
+  "extraction": {
+    "name": "Anjali Yadav",
+    "jobs": [
+      {
+        "title": "Customer Support Executive",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Customer Care Executive",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 5.33,
+    "skills": [
+      "complaint handling",
+      "email support",
+      "typing",
+      "inbound calls",
+      "ticketing"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Typing Certificate",
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": null,
+    "expected_salary_monthly_inr": 36000,
+    "notice_period_days": null
+  },
+  "seconds": 1.52
+}

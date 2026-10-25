@@ -1,0 +1,31 @@
+{
+  "extraction": {
+    "name": "Deepa K",
+    "jobs": [
+      {
+        "title": "Room Attendant",
+        "start": "2025-11",
+        "end": "2026-04"
+      }
+    ],
+    "stated_total_years": 0.4,
+    "skills": [
+      "floor mopping",
+      "room cleaning",
+      "chemical handling",
+      "bed making"
+    ],
+    "location": "Bengaluru",
+    "languages": [
+      "Kannada"
+    ],
+    "certifications": [
+      "Fire Safety Training"
+    ],
+    "education": "12th",
+    "institution": "Govt. Junior College, Bengaluru",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": null
+  },
+  "seconds": 1.67
+}

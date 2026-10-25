@@ -1,0 +1,29 @@
+{
+  "extraction": {
+    "name": "Pooja Paswan",
+    "jobs": [
+      {
+        "title": "Housekeeping Attendant",
+        "start": "2023-11",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "bed making",
+      "chemical handling"
+    ],
+    "location": null,
+    "languages": [
+      "Hindi",
+      "Kannada",
+      "English"
+    ],
+    "certifications": [],
+    "education": "ITI",
+    "institution": "Vishwakarma Private ITI, Noida",
+    "expected_salary_monthly_inr": 17000,
+    "notice_period_days": 0
+  },
+  "seconds": 16.41
+}

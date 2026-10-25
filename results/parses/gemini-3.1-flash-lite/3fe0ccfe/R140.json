@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "name": "Raghavendra K",
+    "jobs": [
+      {
+        "title": "Cleaning Staff",
+        "start": "2024-02",
+        "end": "2026-08"
+      },
+      {
+        "title": "Cleaning Staff",
+        "start": "2021-10",
+        "end": "2024-02"
+      }
+    ],
+    "stated_total_years": 4.8,
+    "skills": [
+      "floor mopping",
+      "chemical handling",
+      "teamwork",
+      "punctuality"
+    ],
+    "location": "Bengaluru",
+    "languages": [
+      "Kannada"
+    ],
+    "certifications": [
+      "Fire Safety Training",
+      "First Aid Training"
+    ],
+    "education": "ITI",
+    "institution": "Govt. ITI, Bengaluru",
+    "expected_salary_monthly_inr": 13000,
+    "notice_period_days": null
+  },
+  "seconds": 1.96
+}

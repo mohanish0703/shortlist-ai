@@ -1,0 +1,41 @@
+{
+  "extraction": {
+    "name": "Subhajit Ghosh",
+    "jobs": [
+      {
+        "title": "Room Attendant",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Cleaning Staff",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 2.4,
+    "skills": [
+      "floor mopping",
+      "bathroom sanitation",
+      "laundry",
+      "teamwork",
+      "punctuality"
+    ],
+    "location": "Bangalore",
+    "languages": [
+      "Bengali",
+      "Kannada",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "First Aid Training",
+      "PMKVY Housekeeping Attendant"
+    ],
+    "education": "12th",
+    "institution": null,
+    "expected_salary_monthly_inr": 15500,
+    "notice_period_days": 0
+  },
+  "seconds": 18.67
+}

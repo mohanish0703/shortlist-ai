@@ -1,0 +1,24 @@
+{
+  "extraction": {
+    "name": "Karthik S",
+    "jobs": [
+      {
+        "title": "Delivery Boy",
+        "start": "2026-09",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [],
+    "location": "Chennai",
+    "languages": [],
+    "certifications": [
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": "12th",
+    "institution": "Govt. Junior College, Chennai",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 14
+  },
+  "seconds": 11.6
+}

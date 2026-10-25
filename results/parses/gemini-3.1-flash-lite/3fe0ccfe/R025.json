@@ -1,0 +1,43 @@
+{
+  "extraction": {
+    "name": "Rekha Sharma",
+    "jobs": [
+      {
+        "title": "Customer Care Executive",
+        "start": "2025-08",
+        "end": "present"
+      },
+      {
+        "title": "Call Centre Agent",
+        "start": "2025-02",
+        "end": "2025-05"
+      },
+      {
+        "title": "Customer Support Executive",
+        "start": "2024-07",
+        "end": "2025-01"
+      }
+    ],
+    "stated_total_years": 1.9,
+    "skills": [
+      "complaint handling",
+      "email support",
+      "typing",
+      "ticketing",
+      "inbound calls",
+      "CRM software",
+      "teamwork"
+    ],
+    "location": "Noida",
+    "languages": [],
+    "certifications": [
+      "Typing Certificate",
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": "Govt. Arts & Science College, Noida",
+    "expected_salary_monthly_inr": 23500,
+    "notice_period_days": 7
+  },
+  "seconds": 2.34
+}

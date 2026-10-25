@@ -1,0 +1,1089 @@
+{
+  "note": "SYNTHETIC resumes; one swap per resume, so small samples",
+  "model": "gemini-3.1-flash-lite",
+  "parse_prompt_id": "3fe0ccfe",
+  "summary": {
+    "control": {
+      "resumes": 30,
+      "mean_abs_score_delta": 0.0,
+      "max_abs_score_delta": 0.0,
+      "tier_changed": 0,
+      "rank_moved": 0,
+      "fields_changed": 0
+    },
+    "name": {
+      "resumes": 30,
+      "mean_abs_score_delta": 0.17,
+      "max_abs_score_delta": 5.0,
+      "tier_changed": 0,
+      "rank_moved": 1,
+      "fields_changed": 7,
+      "embedding_rank_moved": 21,
+      "embedding_mean_abs_rank_shift": 1.57
+    },
+    "college": {
+      "resumes": 30,
+      "mean_abs_score_delta": 0.17,
+      "max_abs_score_delta": 5.0,
+      "tier_changed": 0,
+      "rank_moved": 1,
+      "fields_changed": 9,
+      "embedding_rank_moved": 9,
+      "embedding_mean_abs_rank_shift": 0.33
+    }
+  },
+  "rows": [
+    {
+      "resume_id": "R018",
+      "job_id": "J1",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R018",
+      "job_id": "J1",
+      "variant": "name",
+      "change": "Nagaraj Shetty -> Arun S (Tamil)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 2,
+      "embedding_similarity_delta": -0.0101
+    },
+    {
+      "resume_id": "R018",
+      "job_id": "J1",
+      "variant": "college",
+      "change": "-> Govt. ITI, Mysuru",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0006
+    },
+    {
+      "resume_id": "R074",
+      "job_id": "J1",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R074",
+      "job_id": "J1",
+      "variant": "name",
+      "change": "Basavaraj Naik -> Sagar Kulkarni (Marathi)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 5,
+      "embedding_similarity_delta": -0.0047
+    },
+    {
+      "resume_id": "R074",
+      "job_id": "J1",
+      "variant": "college",
+      "change": "-> St. Anne's High School, Bengaluru",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 1,
+      "embedding_similarity_delta": -0.0012
+    },
+    {
+      "resume_id": "R088",
+      "job_id": "J1",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R088",
+      "job_id": "J1",
+      "variant": "name",
+      "change": "Smruti Patnaik -> Reshma Varghese (Malayalam)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": -1,
+      "embedding_similarity_delta": 0.0047
+    },
+    {
+      "resume_id": "R088",
+      "job_id": "J1",
+      "variant": "college",
+      "change": "-> Govt. Junior College, Bhubaneswar",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "languages"
+      ],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0009
+    },
+    {
+      "resume_id": "R102",
+      "job_id": "J1",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R102",
+      "job_id": "J1",
+      "variant": "name",
+      "change": "Pooja Paswan -> Ayesha Shaikh (Urdu)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0095
+    },
+    {
+      "resume_id": "R102",
+      "job_id": "J1",
+      "variant": "college",
+      "change": "-> Govt. ITI, Noida",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": -1,
+      "embedding_similarity_delta": 0.0016
+    },
+    {
+      "resume_id": "R120",
+      "job_id": "J1",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R120",
+      "job_id": "J1",
+      "variant": "name",
+      "change": "Raghavendra Gowda -> Sourav Ghosh (Bengali)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 3,
+      "embedding_similarity_delta": -0.0071
+    },
+    {
+      "resume_id": "R120",
+      "job_id": "J1",
+      "variant": "college",
+      "change": "-> Zilla Parishad School, Bengaluru",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": -1,
+      "embedding_similarity_delta": 0.0019
+    },
+    {
+      "resume_id": "R125",
+      "job_id": "J1",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R125",
+      "job_id": "J1",
+      "variant": "name",
+      "change": "Amit Paswan -> Sachin More (Marathi)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0025
+    },
+    {
+      "resume_id": "R125",
+      "job_id": "J1",
+      "variant": "college",
+      "change": "-> Sri Saraswati Vidya Mandir, Indore",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0012
+    },
+    {
+      "resume_id": "R020",
+      "job_id": "J2",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R020",
+      "job_id": "J2",
+      "variant": "name",
+      "change": "Sachin Patil -> Pranami Gogoi (Assamese)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 2,
+      "embedding_similarity_delta": -0.0109
+    },
+    {
+      "resume_id": "R020",
+      "job_id": "J2",
+      "variant": "college",
+      "change": "-> Govt. Arts & Science College, Pune",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0014
+    },
+    {
+      "resume_id": "R028",
+      "job_id": "J2",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R028",
+      "job_id": "J2",
+      "variant": "name",
+      "change": "Anjali Singh -> Divya Pandian (Tamil)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": -1,
+      "embedding_similarity_delta": 0.0011
+    },
+    {
+      "resume_id": "R028",
+      "job_id": "J2",
+      "variant": "college",
+      "change": "-> Model Higher Secondary School, Noida",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "certifications"
+      ],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0004
+    },
+    {
+      "resume_id": "R033",
+      "job_id": "J2",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R033",
+      "job_id": "J2",
+      "variant": "name",
+      "change": "Snehal Pawar -> Srinivas Reddy (Telugu)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": -2,
+      "embedding_similarity_delta": 0.0063
+    },
+    {
+      "resume_id": "R033",
+      "job_id": "J2",
+      "variant": "college",
+      "change": "-> Govt. Arts & Science College, Pune",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0021
+    },
+    {
+      "resume_id": "R047",
+      "job_id": "J2",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R047",
+      "job_id": "J2",
+      "variant": "name",
+      "change": "Lakshmi Subramanian -> Rina Saha (Bengali)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0019
+    },
+    {
+      "resume_id": "R047",
+      "job_id": "J2",
+      "variant": "college",
+      "change": "-> Govt. Junior College, Vellore",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0
+    },
+    {
+      "resume_id": "R054",
+      "job_id": "J2",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R054",
+      "job_id": "J2",
+      "variant": "name",
+      "change": "Pallavi Jadhav -> Basavaraj Hegde (Kannada)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 1,
+      "embedding_similarity_delta": -0.0027
+    },
+    {
+      "resume_id": "R054",
+      "job_id": "J2",
+      "variant": "college",
+      "change": "-> Govt. Polytechnic, Satara",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 1,
+      "embedding_similarity_delta": -0.0024
+    },
+    {
+      "resume_id": "R062",
+      "job_id": "J2",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R062",
+      "job_id": "J2",
+      "variant": "name",
+      "change": "Rupjyoti Kalita -> Sunita Verma (Hindi)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": -1,
+      "embedding_similarity_delta": 0.0018
+    },
+    {
+      "resume_id": "R062",
+      "job_id": "J2",
+      "variant": "college",
+      "change": "-> Govt. Junior College, Guwahati",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0002
+    },
+    {
+      "resume_id": "R011",
+      "job_id": "J3",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R011",
+      "job_id": "J3",
+      "variant": "name",
+      "change": "Lavanya Naidu -> Raghavendra Hegde (Kannada)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0026
+    },
+    {
+      "resume_id": "R011",
+      "job_id": "J3",
+      "variant": "college",
+      "change": "-> Sri Venkateshwara Degree College, Sangareddy",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0012
+    },
+    {
+      "resume_id": "R019",
+      "job_id": "J3",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R019",
+      "job_id": "J3",
+      "variant": "name",
+      "change": "Srinivas Rao -> Ramesh Singh (Hindi)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 1,
+      "embedding_similarity_delta": -0.0129
+    },
+    {
+      "resume_id": "R019",
+      "job_id": "J3",
+      "variant": "college",
+      "change": "-> Govt. Arts & Science College, Warangal",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0013
+    },
+    {
+      "resume_id": "R050",
+      "job_id": "J3",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R050",
+      "job_id": "J3",
+      "variant": "name",
+      "change": "Ravi Naidu -> Subhajit Mondal (Bengali)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 1,
+      "embedding_similarity_delta": -0.01
+    },
+    {
+      "resume_id": "R050",
+      "job_id": "J3",
+      "variant": "college",
+      "change": "-> Model Higher Secondary School, Hyderabad",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0004
+    },
+    {
+      "resume_id": "R059",
+      "job_id": "J3",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R059",
+      "job_id": "J3",
+      "variant": "name",
+      "change": "Srinivas Reddy -> Bikash Kalita (Assamese)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 4,
+      "embedding_similarity_delta": -0.0126
+    },
+    {
+      "resume_id": "R059",
+      "job_id": "J3",
+      "variant": "college",
+      "change": "-> Model Higher Secondary School, Hyderabad",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": -1,
+      "embedding_similarity_delta": 0.0013
+    },
+    {
+      "resume_id": "R067",
+      "job_id": "J3",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R067",
+      "job_id": "J3",
+      "variant": "name",
+      "change": "Swathi Chowdary -> Salim Qureshi (Urdu)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0009
+    },
+    {
+      "resume_id": "R067",
+      "job_id": "J3",
+      "variant": "college",
+      "change": "-> Govt. Junior College, Hyderabad",
+      "score_delta": -5.0,
+      "tier_changed": false,
+      "rank_shift": 2,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 2,
+      "embedding_similarity_delta": -0.003
+    },
+    {
+      "resume_id": "R068",
+      "job_id": "J3",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R068",
+      "job_id": "J3",
+      "variant": "name",
+      "change": "Lavanya Chowdary -> Deepa Patil (Kannada)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0017
+    },
+    {
+      "resume_id": "R068",
+      "job_id": "J3",
+      "variant": "college",
+      "change": "-> Govt. ITI, Hyderabad",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0003
+    },
+    {
+      "resume_id": "R003",
+      "job_id": "J4",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R003",
+      "job_id": "J4",
+      "variant": "name",
+      "change": "Pallavi More -> Debasis Patnaik (Odia)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 1,
+      "embedding_similarity_delta": -0.001
+    },
+    {
+      "resume_id": "R003",
+      "job_id": "J4",
+      "variant": "college",
+      "change": "-> Sri Venkateshwara Degree College, Satara",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": -1,
+      "embedding_similarity_delta": 0.0011
+    },
+    {
+      "resume_id": "R021",
+      "job_id": "J4",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R021",
+      "job_id": "J4",
+      "variant": "name",
+      "change": "Joseph Pillai -> Pooja Kumar (Hindi)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0005
+    },
+    {
+      "resume_id": "R021",
+      "job_id": "J4",
+      "variant": "college",
+      "change": "-> Sri Venkateshwara Degree College, Kochi",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0008
+    },
+    {
+      "resume_id": "R030",
+      "job_id": "J4",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R030",
+      "job_id": "J4",
+      "variant": "name",
+      "change": "Murugan Subramanian -> Bikash Kalita (Assamese)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0033
+    },
+    {
+      "resume_id": "R030",
+      "job_id": "J4",
+      "variant": "college",
+      "change": "-> Govt. ITI, Chennai",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0028
+    },
+    {
+      "resume_id": "R037",
+      "job_id": "J4",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R037",
+      "job_id": "J4",
+      "variant": "name",
+      "change": "Senthil Raja -> Moumita Das (Bengali)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 4,
+      "embedding_similarity_delta": -0.0084
+    },
+    {
+      "resume_id": "R037",
+      "job_id": "J4",
+      "variant": "college",
+      "change": "-> St. Anne's High School, Chennai",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 1,
+      "embedding_similarity_delta": -0.0001
+    },
+    {
+      "resume_id": "R039",
+      "job_id": "J4",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R039",
+      "job_id": "J4",
+      "variant": "name",
+      "change": "Karthik Subramanian -> Subhajit Saha (Bengali)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": -1,
+      "embedding_similarity_delta": 0.001
+    },
+    {
+      "resume_id": "R039",
+      "job_id": "J4",
+      "variant": "college",
+      "change": "-> Model Higher Secondary School, Chennai",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": -1,
+      "embedding_similarity_delta": 0.0012
+    },
+    {
+      "resume_id": "R043",
+      "job_id": "J4",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R043",
+      "job_id": "J4",
+      "variant": "name",
+      "change": "Ayesha Shaikh -> Shilpa K (Kannada)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 1,
+      "embedding_similarity_delta": -0.0046
+    },
+    {
+      "resume_id": "R043",
+      "job_id": "J4",
+      "variant": "college",
+      "change": "-> Govt. High School, Hyderabad",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0012
+    },
+    {
+      "resume_id": "R007",
+      "job_id": "J5",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R007",
+      "job_id": "J5",
+      "variant": "name",
+      "change": "Rajesh Kumar -> Sourav Banerjee (Bengali)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 3,
+      "embedding_similarity_delta": -0.0101
+    },
+    {
+      "resume_id": "R007",
+      "job_id": "J5",
+      "variant": "college",
+      "change": "-> Govt. Arts & Science College, Aligarh",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0009
+    },
+    {
+      "resume_id": "R014",
+      "job_id": "J5",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R014",
+      "job_id": "J5",
+      "variant": "name",
+      "change": "Neha Mishra -> Rupjyoti Kalita (Assamese)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0095
+    },
+    {
+      "resume_id": "R014",
+      "job_id": "J5",
+      "variant": "college",
+      "change": "-> Sri Saraswati Vidya Mandir, Noida",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0
+    },
+    {
+      "resume_id": "R024",
+      "job_id": "J5",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R024",
+      "job_id": "J5",
+      "variant": "name",
+      "change": "Ashwini Pawar -> Salim Shaikh (Urdu)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": -3,
+      "embedding_similarity_delta": 0.007
+    },
+    {
+      "resume_id": "R024",
+      "job_id": "J5",
+      "variant": "college",
+      "change": "-> Sri Venkateshwara Degree College, Lonavala",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0007
+    },
+    {
+      "resume_id": "R051",
+      "job_id": "J5",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R051",
+      "job_id": "J5",
+      "variant": "name",
+      "change": "Pooja Verma -> Snehal Shinde (Marathi)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 5,
+      "embedding_similarity_delta": -0.0115
+    },
+    {
+      "resume_id": "R051",
+      "job_id": "J5",
+      "variant": "college",
+      "change": "-> Govt. Arts & Science College, Noida",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0013
+    },
+    {
+      "resume_id": "R069",
+      "job_id": "J5",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R069",
+      "job_id": "J5",
+      "variant": "name",
+      "change": "Joseph Thomas -> Ananya Sahoo (Odia)",
+      "score_delta": 5.0,
+      "tier_changed": false,
+      "rank_shift": -1,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 2,
+      "embedding_similarity_delta": -0.0086
+    },
+    {
+      "resume_id": "R069",
+      "job_id": "J5",
+      "variant": "college",
+      "change": "-> Govt. Arts & Science College, Kochi",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [
+        "skills"
+      ],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": 0.0006
+    },
+    {
+      "resume_id": "R079",
+      "job_id": "J5",
+      "variant": "control",
+      "change": "unchanged",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": []
+    },
+    {
+      "resume_id": "R079",
+      "job_id": "J5",
+      "variant": "name",
+      "change": "Pallavi Jadhav -> Basavaraj Naik (Kannada)",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 3,
+      "embedding_similarity_delta": -0.0099
+    },
+    {
+      "resume_id": "R079",
+      "job_id": "J5",
+      "variant": "college",
+      "change": "-> Model Higher Secondary School, Pune",
+      "score_delta": 0.0,
+      "tier_changed": false,
+      "rank_shift": 0,
+      "fields_changed": [],
+      "embedding_rank_shift": 0,
+      "embedding_similarity_delta": -0.0023
+    }
+  ]
+}

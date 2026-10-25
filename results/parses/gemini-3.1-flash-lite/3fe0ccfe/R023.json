@@ -1,0 +1,34 @@
+{
+  "extraction": {
+    "name": "Padma Naidu",
+    "jobs": [
+      {
+        "title": "Security Supervisor",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 0.58,
+    "skills": [
+      "emergency response",
+      "patrolling",
+      "visitor management",
+      "fire safety",
+      "teamwork"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "certifications": [
+      "First Aid Training",
+      "PSARA Security Training"
+    ],
+    "education": "12th",
+    "institution": null,
+    "expected_salary_monthly_inr": 15000,
+    "notice_period_days": 7
+  },
+  "seconds": 1.48
+}

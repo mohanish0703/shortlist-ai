@@ -1,0 +1,33 @@
+{
+  "extraction": {
+    "name": "Nagaraj Shetty",
+    "jobs": [
+      {
+        "title": "Housekeeping Staff",
+        "start": "2025-01",
+        "end": "2026-05"
+      }
+    ],
+    "stated_total_years": 1.3,
+    "skills": [
+      "bed making",
+      "floor mopping",
+      "laundry",
+      "bathroom sanitation"
+    ],
+    "location": "Mysuru",
+    "languages": [
+      "Kannada",
+      "Hindi"
+    ],
+    "certifications": [
+      "First Aid Training",
+      "PMKVY Housekeeping Attendant"
+    ],
+    "education": "ITI",
+    "institution": "Vishwakarma Private ITI, Mysuru",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 3.3
+}

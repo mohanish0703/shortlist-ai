@@ -1,0 +1,38 @@
+{
+  "extraction": {
+    "name": "Nagaraj M",
+    "jobs": [
+      {
+        "title": "Front Office Assistant",
+        "start": "2023-12",
+        "end": "2026-08"
+      },
+      {
+        "title": "Front Office Assistant",
+        "start": "2022-05",
+        "end": "2023-09"
+      }
+    ],
+    "stated_total_years": 4.0,
+    "skills": [
+      "email correspondence",
+      "guest check-in",
+      "MS Office",
+      "billing",
+      "inbound calls",
+      "teamwork"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Kannada",
+      "Marathi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "Graduate",
+    "institution": "Govt. Arts & Science College, Bengaluru",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 1.97
+}

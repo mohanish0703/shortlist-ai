@@ -1,0 +1,34 @@
+{
+  "extraction": {
+    "name": "Manjunath Shetty",
+    "jobs": [
+      {
+        "title": "Room Attendant",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Cleaning Staff",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 4.4,
+    "skills": [
+      "room cleaning"
+    ],
+    "location": "Bengaluru",
+    "languages": [
+      "Kannada",
+      "Hindi"
+    ],
+    "certifications": [
+      "PMKVY Housekeeping Attendant"
+    ],
+    "education": "ITI",
+    "institution": null,
+    "expected_salary_monthly_inr": 17500,
+    "notice_period_days": 0
+  },
+  "seconds": 1.41
+}

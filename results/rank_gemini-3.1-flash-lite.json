@@ -1,0 +1,60 @@
+{
+  "note": "SYNTHETIC resumes; see the module docstring for what each label set means",
+  "model": "gemini-3.1-flash-lite",
+  "embedding_model": "gemini-embedding-001",
+  "reason_prompt_id": "880165dd",
+  "hand_vs_generator_agreement": "TBD",
+  "generator_labels": {
+    "resumes": 150,
+    "ranking": {
+      "keyword": {
+        "precision@5": 0.28,
+        "ndcg@10": 0.506
+      },
+      "embedding": {
+        "precision@5": 0.44,
+        "ndcg@10": 0.598
+      },
+      "agent": {
+        "precision@5": 1.0,
+        "ndcg@10": 0.995
+      }
+    },
+    "agent_tier_vs_label": {
+      "accuracy": 0.82,
+      "confusion_label_vs_agent": {
+        "good": {
+          "good": 40
+        },
+        "borderline": {
+          "borderline": 42,
+          "poor": 13,
+          "good": 2
+        },
+        "poor": {
+          "poor": 41,
+          "borderline": 12
+        }
+      }
+    }
+  },
+  "hand_labels": {
+    "resumes": 0,
+    "ranking": {
+      "keyword": "TBD",
+      "embedding": "TBD",
+      "agent": "TBD"
+    },
+    "agent_tier_vs_label": "TBD"
+  },
+  "reasons": {
+    "candidates": 150,
+    "passed_first_time": 0.84,
+    "passed_on_retry": 0.153,
+    "plain_fallback": 0.007,
+    "problems_seen": {
+      "no reason returned": 23,
+      "job_titles": 1
+    }
+  }
+}

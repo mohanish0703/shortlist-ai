@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "name": "Padma Reddy",
+    "jobs": [
+      {
+        "title": "Security Supervisor",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Security Guard",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 3.33,
+    "skills": [
+      "patrolling",
+      "visitor management",
+      "emergency response",
+      "teamwork"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Telugu"
+    ],
+    "certifications": [
+      "PSARA Security Training",
+      "First Aid Training"
+    ],
+    "education": "Graduate",
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 2.43
+}

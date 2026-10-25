@@ -1,0 +1,43 @@
+{
+  "extraction": {
+    "name": "Basavaraj M",
+    "jobs": [
+      {
+        "title": "Room Attendant",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Housekeeping Attendant",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Housekeeping Staff",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 1.9,
+    "skills": [
+      "room cleaning",
+      "laundry",
+      "floor mopping",
+      "teamwork"
+    ],
+    "location": null,
+    "languages": [
+      "Kannada",
+      "Hindi"
+    ],
+    "certifications": [
+      "PMKVY Housekeeping Attendant",
+      "First Aid Training"
+    ],
+    "education": "12th",
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 1.47
+}

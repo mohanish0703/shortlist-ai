@@ -1,0 +1,26 @@
+{
+  "extraction": {
+    "name": "Lakshmi S",
+    "jobs": [],
+    "stated_total_years": 0.0,
+    "skills": [
+      "parcel handling",
+      "customer handling",
+      "two-wheeler riding",
+      "route navigation"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Tamil"
+    ],
+    "certifications": [
+      "LMV Driving Licence",
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": "12th",
+    "institution": "Model Higher Secondary School, Chennai",
+    "expected_salary_monthly_inr": 26500,
+    "notice_period_days": 0
+  },
+  "seconds": 1.36
+}

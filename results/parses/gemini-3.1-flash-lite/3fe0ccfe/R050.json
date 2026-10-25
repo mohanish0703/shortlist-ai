@@ -1,0 +1,31 @@
+{
+  "extraction": {
+    "name": "Ravi Naidu",
+    "jobs": [
+      {
+        "title": "Security Guard",
+        "start": "2026-02",
+        "end": "2026-07"
+      },
+      {
+        "title": "Security Supervisor",
+        "start": "2022-12",
+        "end": "2026-02"
+      }
+    ],
+    "stated_total_years": 3.6,
+    "skills": [
+      "patrolling",
+      "visitor management",
+      "CCTV monitoring"
+    ],
+    "location": "Hyderabad",
+    "languages": [],
+    "certifications": [],
+    "education": "12th",
+    "institution": "Govt. Junior College, Hyderabad",
+    "expected_salary_monthly_inr": 18500,
+    "notice_period_days": null
+  },
+  "seconds": 1.59
+}

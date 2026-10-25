@@ -1,0 +1,30 @@
+{
+  "name": "Salim Qureshi",
+  "jobs": [
+    {
+      "title": "Security Guard",
+      "start": "2026-01",
+      "end": "present"
+    }
+  ],
+  "stated_total_years": null,
+  "skills": [
+    "CCTV monitoring",
+    "teamwork",
+    "hardworking",
+    "visitor management",
+    "patrolling",
+    "fire safety"
+  ],
+  "location": "Hyderabad",
+  "languages": [
+    "Telugu",
+    "Hindi",
+    "English"
+  ],
+  "certifications": [],
+  "education": "12th",
+  "institution": "Model Higher Secondary School, Hyderabad",
+  "expected_salary_monthly_inr": null,
+  "notice_period_days": 7
+}

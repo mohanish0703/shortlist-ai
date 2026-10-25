@@ -1,0 +1,45 @@
+{
+  "extraction": {
+    "name": "Amit Devi",
+    "jobs": [
+      {
+        "title": "CSR",
+        "start": "2025-01",
+        "end": "present"
+      },
+      {
+        "title": "Customer Support Executive",
+        "start": "2024-06",
+        "end": "2024-11"
+      },
+      {
+        "title": "Call Centre Agent",
+        "start": "2023-11",
+        "end": "2024-04"
+      }
+    ],
+    "stated_total_years": 2.6,
+    "skills": [
+      "inbound calls",
+      "email support",
+      "typing",
+      "complaint handling",
+      "CRM software",
+      "hardworking",
+      "teamwork"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Noida",
+    "expected_salary_monthly_inr": 19000,
+    "notice_period_days": 60
+  },
+  "seconds": 24.01
+}

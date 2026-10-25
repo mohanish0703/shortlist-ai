@@ -1,0 +1,42 @@
+{
+  "extraction": {
+    "name": "Ayesha Shaikh",
+    "jobs": [
+      {
+        "title": "Bike Rider",
+        "start": "2026-04",
+        "end": "2026-08"
+      },
+      {
+        "title": "Bike Rider",
+        "start": "2024-10",
+        "end": "2026-03"
+      },
+      {
+        "title": "Delivery Boy",
+        "start": "2024-06",
+        "end": "2024-08"
+      }
+    ],
+    "stated_total_years": 1.9,
+    "skills": [
+      "route navigation",
+      "parcel handling",
+      "customer handling"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Urdu",
+      "Hindi",
+      "Tamil"
+    ],
+    "certifications": [
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": "10th",
+    "institution": "Sri Saraswati Vidya Mandir, Hyderabad",
+    "expected_salary_monthly_inr": 15500,
+    "notice_period_days": null
+  },
+  "seconds": 1.47
+}

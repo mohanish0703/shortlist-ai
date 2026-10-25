@@ -1,0 +1,41 @@
+{
+  "extraction": {
+    "name": "Shibu Thomas",
+    "jobs": [
+      {
+        "title": "Front Office Assistant",
+        "start": "2026-04",
+        "end": "present"
+      },
+      {
+        "title": "Front Office Assistant",
+        "start": "2025-11",
+        "end": "2026-02"
+      },
+      {
+        "title": "Receptionist",
+        "start": "2023-02",
+        "end": "2025-11"
+      }
+    ],
+    "stated_total_years": 3.5,
+    "skills": [
+      "MS Office",
+      "email correspondence",
+      "complaint handling",
+      "phone handling",
+      "guest check-in",
+      "visitor management",
+      "hardworking",
+      "punctuality"
+    ],
+    "location": "Pune",
+    "languages": [],
+    "certifications": [],
+    "education": "Graduate",
+    "institution": "Govt. Arts & Science College, Kochi",
+    "expected_salary_monthly_inr": 20500,
+    "notice_period_days": null
+  },
+  "seconds": 1.97
+}

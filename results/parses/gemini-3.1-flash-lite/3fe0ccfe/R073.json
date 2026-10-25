@@ -1,0 +1,46 @@
+{
+  "extraction": {
+    "name": "Reshma Thomas",
+    "jobs": [
+      {
+        "title": "Housekeeping Staff",
+        "start": "2025-11",
+        "end": "present"
+      },
+      {
+        "title": "Housekeeping Staff",
+        "start": "2024-01",
+        "end": "2025-08"
+      },
+      {
+        "title": "Housekeeping Staff",
+        "start": "2023-07",
+        "end": "2023-11"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "floor mopping",
+      "machine scrubbing",
+      "bed making",
+      "laundry",
+      "chemical handling",
+      "bathroom sanitation"
+    ],
+    "location": "Bangalore",
+    "languages": [
+      "Malayalam",
+      "Kannada",
+      "Hindi"
+    ],
+    "certifications": [
+      "Fire Safety Training",
+      "First Aid Training"
+    ],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 15000,
+    "notice_period_days": 45
+  },
+  "seconds": 1.55
+}

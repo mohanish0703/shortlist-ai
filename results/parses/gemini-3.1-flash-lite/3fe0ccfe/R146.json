@@ -1,0 +1,41 @@
+{
+  "extraction": {
+    "name": "Sachin Shinde",
+    "jobs": [
+      {
+        "title": "Customer Care Executive",
+        "start": "2023-07",
+        "end": "2026-04"
+      },
+      {
+        "title": "Customer Support Executive",
+        "start": "2022-12",
+        "end": "2023-04"
+      }
+    ],
+    "stated_total_years": 3.1,
+    "skills": [
+      "CRM software",
+      "typing",
+      "ticketing",
+      "complaint handling",
+      "email support",
+      "teamwork",
+      "hardworking"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": "Govt. Arts & Science College, Pune",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": null
+  },
+  "seconds": 2.88
+}

@@ -1,0 +1,41 @@
+{
+  "extraction": {
+    "name": "Rupjyoti Kalita",
+    "jobs": [
+      {
+        "title": "Call Centre Agent",
+        "start": "2025-10",
+        "end": "present"
+      },
+      {
+        "title": "CSR",
+        "start": "2021-03",
+        "end": "2025-07"
+      }
+    ],
+    "stated_total_years": 5.3,
+    "skills": [
+      "ticketing",
+      "CRM software",
+      "typing",
+      "inbound calls",
+      "email support",
+      "complaint handling"
+    ],
+    "location": "Guwahati",
+    "languages": [
+      "Assamese",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "MS Office Certificate",
+      "Typing Certificate"
+    ],
+    "education": "Postgraduate",
+    "institution": "Regional Institute of Commerce, Guwahati",
+    "expected_salary_monthly_inr": 21000,
+    "notice_period_days": 0
+  },
+  "seconds": 2.12
+}

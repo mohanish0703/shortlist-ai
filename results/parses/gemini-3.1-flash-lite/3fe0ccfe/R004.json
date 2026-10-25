@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "name": "Vikas Mishra",
+    "jobs": [
+      {
+        "title": "CSR",
+        "start": "2022-04",
+        "end": "2026-05"
+      },
+      {
+        "title": "CSR",
+        "start": "2022-02",
+        "end": "2022-03"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "inbound calls",
+      "typing",
+      "complaint handling"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Typing Certificate",
+      "MS Office Certificate"
+    ],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 20500,
+    "notice_period_days": 60
+  },
+  "seconds": 2.38
+}

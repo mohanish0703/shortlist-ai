@@ -1,0 +1,29 @@
+{
+  "extraction": {
+    "name": "Amit Sharma",
+    "jobs": [
+      {
+        "title": "CSR",
+        "start": "2023-11",
+        "end": "2026-04"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "typing",
+      "email support",
+      "inbound calls",
+      "complaint handling",
+      "CRM software",
+      "punctuality"
+    ],
+    "location": "Noida",
+    "languages": [],
+    "certifications": [],
+    "education": "Postgraduate",
+    "institution": "Regional Institute of Commerce, Noida",
+    "expected_salary_monthly_inr": 22000,
+    "notice_period_days": 30
+  },
+  "seconds": 1.43
+}

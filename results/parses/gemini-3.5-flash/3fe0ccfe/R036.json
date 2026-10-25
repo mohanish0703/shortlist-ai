@@ -1,0 +1,35 @@
+{
+  "extraction": {
+    "name": "Snehal Kulkarni",
+    "jobs": [
+      {
+        "title": "Bike Rider",
+        "start": "2023-03",
+        "end": "2026-07"
+      }
+    ],
+    "stated_total_years": 3.3,
+    "skills": [
+      "parcel handling",
+      "cash handling",
+      "route navigation",
+      "hardworking",
+      "teamwork"
+    ],
+    "location": "Lucknow",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "Tamil"
+    ],
+    "certifications": [
+      "LMV Driving Licence",
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 18500,
+    "notice_period_days": null
+  },
+  "seconds": 2.41
+}

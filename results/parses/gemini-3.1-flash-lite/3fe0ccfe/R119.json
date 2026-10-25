@@ -1,0 +1,41 @@
+{
+  "extraction": {
+    "name": "Manjunath K",
+    "jobs": [
+      {
+        "title": "Cleaning Staff",
+        "start": "2025-08",
+        "end": "present"
+      },
+      {
+        "title": "Room Attendant",
+        "start": "2021-10",
+        "end": "2025-07"
+      }
+    ],
+    "stated_total_years": 4.9,
+    "skills": [
+      "bed making",
+      "room cleaning",
+      "machine scrubbing",
+      "floor mopping",
+      "chemical handling",
+      "punctuality"
+    ],
+    "location": "Bengaluru",
+    "languages": [
+      "Kannada",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "First Aid Training",
+      "PMKVY Housekeeping Attendant"
+    ],
+    "education": "10th",
+    "institution": "Govt. High School, Bengaluru",
+    "expected_salary_monthly_inr": 26000,
+    "notice_period_days": null
+  },
+  "seconds": 1.64
+}

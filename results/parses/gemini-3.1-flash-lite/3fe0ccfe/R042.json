@@ -1,0 +1,39 @@
+{
+  "extraction": {
+    "name": "Nagaraj Patil",
+    "jobs": [
+      {
+        "title": "Delivery Associate",
+        "start": "2025-10",
+        "end": "2026-06"
+      },
+      {
+        "title": "Delivery Associate",
+        "start": "2021-08",
+        "end": "2025-09"
+      }
+    ],
+    "stated_total_years": 4.8,
+    "skills": [
+      "two-wheeler riding",
+      "Google Maps",
+      "cash handling",
+      "hardworking"
+    ],
+    "location": "Madras",
+    "languages": [
+      "Kannada",
+      "Tamil",
+      "Hindi"
+    ],
+    "certifications": [
+      "LMV Driving Licence",
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": "ITI",
+    "institution": "Vishwakarma Private ITI, Tumakuru",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 10
+  },
+  "seconds": 1.67
+}

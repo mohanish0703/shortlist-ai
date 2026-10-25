@@ -1,0 +1,45 @@
+{
+  "extraction": {
+    "name": "Kavya Naik",
+    "jobs": [
+      {
+        "title": "Front Office Assistant",
+        "start": "2023-11",
+        "end": "present"
+      },
+      {
+        "title": "Guest Relations Executive",
+        "start": "2021-08",
+        "end": "2023-10"
+      },
+      {
+        "title": "Receptionist",
+        "start": "2020-10",
+        "end": "2021-05"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "MS Office",
+      "complaint handling",
+      "guest check-in",
+      "billing",
+      "email correspondence",
+      "hardworking"
+    ],
+    "location": "Bengaluru",
+    "languages": [
+      "Kannada",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Diploma in Hotel Management"
+    ],
+    "education": "Diploma",
+    "institution": null,
+    "expected_salary_monthly_inr": 17000,
+    "notice_period_days": 0
+  },
+  "seconds": 1.76
+}

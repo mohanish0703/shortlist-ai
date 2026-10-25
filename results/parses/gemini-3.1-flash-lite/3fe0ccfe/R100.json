@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "name": "Basavaraj Hegde",
+    "jobs": [
+      {
+        "title": "Housekeeping Staff",
+        "start": "2026-07",
+        "end": "present"
+      },
+      {
+        "title": "Housekeeping Staff",
+        "start": "2024-05",
+        "end": "2026-04"
+      },
+      {
+        "title": "Cleaning Staff",
+        "start": "2024-02",
+        "end": "2024-03"
+      }
+    ],
+    "stated_total_years": 2.2,
+    "skills": [
+      "chemical handling",
+      "machine scrubbing",
+      "floor mopping",
+      "hardworking"
+    ],
+    "location": "Bengaluru",
+    "languages": [],
+    "certifications": [],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": null
+  },
+  "seconds": 15.47
+}

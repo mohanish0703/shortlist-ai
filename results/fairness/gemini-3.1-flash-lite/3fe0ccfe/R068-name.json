@@ -1,0 +1,29 @@
+{
+  "name": "Deepa Patil",
+  "jobs": [
+    {
+      "title": "Security Officer",
+      "start": "2021-05",
+      "end": "2026-06"
+    }
+  ],
+  "stated_total_years": null,
+  "skills": [
+    "visitor management",
+    "access control",
+    "fire safety",
+    "patrolling"
+  ],
+  "location": "Hyderabad",
+  "languages": [
+    "Telugu",
+    "Hindi"
+  ],
+  "certifications": [
+    "First Aid Training"
+  ],
+  "education": "ITI",
+  "institution": "Vishwakarma Private ITI, Hyderabad",
+  "expected_salary_monthly_inr": 35000,
+  "notice_period_days": 0
+}

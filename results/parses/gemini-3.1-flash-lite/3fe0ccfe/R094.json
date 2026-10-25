@@ -1,0 +1,30 @@
+{
+  "extraction": {
+    "name": "Venkatesh Chowdary",
+    "jobs": [
+      {
+        "title": "Security Supervisor",
+        "start": "2023-05",
+        "end": "present"
+      },
+      {
+        "title": "Security Officer",
+        "start": "2020-12",
+        "end": "2023-03"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [],
+    "location": null,
+    "languages": [],
+    "certifications": [
+      "First Aid Training",
+      "Fire Safety Training"
+    ],
+    "education": "12th",
+    "institution": "Govt. Junior College, Sangareddy",
+    "expected_salary_monthly_inr": 19000,
+    "notice_period_days": 0
+  },
+  "seconds": 1.85
+}

@@ -1,0 +1,35 @@
+{
+  "extraction": {
+    "name": "Senthil Subramanian",
+    "jobs": [
+      {
+        "title": "Delivery Executive",
+        "start": "2022-06",
+        "end": "2026-09"
+      }
+    ],
+    "stated_total_years": 4.2,
+    "skills": [
+      "customer handling",
+      "cash handling",
+      "route navigation",
+      "Google Maps",
+      "two-wheeler riding",
+      "parcel handling",
+      "hardworking",
+      "punctuality"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Tamil"
+    ],
+    "certifications": [
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": "12th",
+    "institution": "Model Higher Secondary School, Chennai",
+    "expected_salary_monthly_inr": 25000,
+    "notice_period_days": 14
+  },
+  "seconds": 1.36
+}

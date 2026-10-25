@@ -1,0 +1,31 @@
+{
+  "extraction": {
+    "name": "Murugan Pandian",
+    "jobs": [
+      {
+        "title": "Bike Rider",
+        "start": "2026-03",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": 0.6,
+    "skills": [
+      "parcel handling",
+      "customer handling",
+      "two-wheeler riding",
+      "hardworking",
+      "teamwork"
+    ],
+    "location": "Chennai",
+    "languages": [],
+    "certifications": [
+      "Two-Wheeler Driving Licence",
+      "LMV Driving Licence"
+    ],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Chennai",
+    "expected_salary_monthly_inr": 17000,
+    "notice_period_days": 7
+  },
+  "seconds": 2.68
+}

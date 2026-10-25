@@ -1,0 +1,42 @@
+{
+  "name": "Raghavendra Hegde",
+  "jobs": [
+    {
+      "title": "Security Guard",
+      "start": "2026-02",
+      "end": "present"
+    },
+    {
+      "title": "Security Guard",
+      "start": "2026-01",
+      "end": "2026-02"
+    },
+    {
+      "title": "Security Officer",
+      "start": "2022-04",
+      "end": "2025-12"
+    }
+  ],
+  "stated_total_years": 4.4,
+  "skills": [
+    "emergency response",
+    "patrolling",
+    "access control",
+    "fire safety",
+    "visitor management",
+    "CCTV monitoring"
+  ],
+  "location": null,
+  "languages": [
+    "Telugu",
+    "Hindi"
+  ],
+  "certifications": [
+    "First Aid Training",
+    "Fire Safety Training"
+  ],
+  "education": "Graduate",
+  "institution": "Govt. Arts & Science College, Sangareddy",
+  "expected_salary_monthly_inr": 18000,
+  "notice_period_days": 7
+}

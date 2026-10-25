@@ -1,0 +1,30 @@
+{
+  "extraction": {
+    "name": "Karthik Raja",
+    "jobs": [],
+    "stated_total_years": 0.0,
+    "skills": [
+      "Google Maps",
+      "route navigation",
+      "customer handling",
+      "cash handling",
+      "two-wheeler riding",
+      "parcel handling",
+      "punctuality",
+      "hardworking"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Tamil",
+      "Hindi"
+    ],
+    "certifications": [
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": "ITI",
+    "institution": "Vishwakarma Private ITI, Chennai",
+    "expected_salary_monthly_inr": 17500,
+    "notice_period_days": 0
+  },
+  "seconds": 1.54
+}

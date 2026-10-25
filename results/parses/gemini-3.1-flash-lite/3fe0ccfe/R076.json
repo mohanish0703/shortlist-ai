@@ -1,0 +1,34 @@
+{
+  "extraction": {
+    "name": "Senthil Pandian",
+    "jobs": [
+      {
+        "title": "Call Centre Agent",
+        "start": "2025-08",
+        "end": "present"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "typing",
+      "ticketing",
+      "email support",
+      "complaint handling"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Tamil",
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Typing Certificate",
+      "MS Office Certificate"
+    ],
+    "education": "Graduate",
+    "institution": "Sri Venkateshwara Degree College, Vellore",
+    "expected_salary_monthly_inr": 20000,
+    "notice_period_days": 90
+  },
+  "seconds": 1.65
+}

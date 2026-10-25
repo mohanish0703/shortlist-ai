@@ -1,0 +1,15 @@
+APPLICATION FORM
+
+Candidate Name      : Lakshmi Raja
+Curent City        : Noida (UP)
+Contact             : 99XXXXX102 / lakshmi21@example.com
+Total Experience    : 4.3 years
+
+| Organisation | Designation | From | To |
+| Nimbus Telecom Support | Call Centre Agent | June 2022 | Now |
+
+Key Skills          : ticketing / complaint resolution / non-voice (email) process / inbound calls / Salesforce / CRM tools / punctuality / team plaeyr
+Languages           : Tamil (speak), Hindi (speak), English - fluent
+Qualification       : BBA (Sri Venkateshwara Degree College, Chennai)
+Certificates        : English typing certificate, Computre course (MS Office)
+Notice Period       : 60 days

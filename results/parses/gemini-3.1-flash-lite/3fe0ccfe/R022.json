@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "name": "Rajesh Singh",
+    "jobs": [
+      {
+        "title": "Customer Care Executive",
+        "start": "2024-08",
+        "end": "present"
+      },
+      {
+        "title": "CSR",
+        "start": "2023-01",
+        "end": "2024-05"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "email support",
+      "inbound calls",
+      "ticketing",
+      "typing",
+      "CRM software",
+      "hardworking",
+      "punctuality"
+    ],
+    "location": "Meerut",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "certifications": [
+      "Typing Certificate"
+    ],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 25000,
+    "notice_period_days": 30
+  },
+  "seconds": 4.46
+}

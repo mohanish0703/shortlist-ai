@@ -1,0 +1,38 @@
+{
+  "extraction": {
+    "name": "Karthik Subramanian",
+    "jobs": [
+      {
+        "title": "CSR",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Call Centre Agent",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 4.25,
+    "skills": [
+      "CRM software",
+      "email support",
+      "inbound calls",
+      "hardworking",
+      "typing"
+    ],
+    "location": "Noida",
+    "languages": [
+      "Tamil"
+    ],
+    "certifications": [
+      "Typing Certificate",
+      "MS Office Certificate"
+    ],
+    "education": "12th",
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 15
+  },
+  "seconds": 10.11
+}

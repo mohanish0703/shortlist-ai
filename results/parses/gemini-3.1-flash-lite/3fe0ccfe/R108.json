@@ -1,0 +1,43 @@
+{
+  "extraction": {
+    "name": "Ashwini Pawar",
+    "jobs": [
+      {
+        "title": "Receptionist",
+        "start": "2025-10",
+        "end": "present"
+      },
+      {
+        "title": "Guest Relations Executive",
+        "start": "2024-11",
+        "end": "2025-10"
+      },
+      {
+        "title": "Guest Relations Executive",
+        "start": "2023-11",
+        "end": "2024-09"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "visitor management",
+      "MS Office",
+      "email correspondence",
+      "guest check-in",
+      "billing",
+      "teamwork",
+      "hardworking"
+    ],
+    "location": "Pune",
+    "languages": [
+      "Marathi",
+      "English"
+    ],
+    "certifications": [],
+    "education": "Graduate",
+    "institution": "Govt. Arts & Science College, Pune",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": null
+  },
+  "seconds": 1.76
+}

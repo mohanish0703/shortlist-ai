@@ -1,0 +1,614 @@
+{
+  "R074": {
+    "text": "Basavaraj Naik has 5.8 years of relevant experience and meets all location and language requirements. No concerns identified.",
+    "cites": [
+      {
+        "field": "name",
+        "value": "Basavaraj Naik"
+      },
+      {
+        "field": "years_experience",
+        "value": "5.8"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "languages",
+        "value": "[\"Kannada\", \"Hindi\"]"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R139": {
+    "text": "Ayesha Khan brings 5.3 years of experience and is available immediately. No concerns identified.",
+    "cites": [
+      {
+        "field": "name",
+        "value": "Ayesha Khan"
+      },
+      {
+        "field": "years_experience",
+        "value": "5.3"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "0"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R106": {
+    "text": "Snehal More has 1.4 years of experience and is based in Bengaluru. No concerns identified.",
+    "cites": [
+      {
+        "field": "name",
+        "value": "Snehal More"
+      },
+      {
+        "field": "years_experience",
+        "value": "1.4"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R061": {
+    "text": "Manjunath Shetty has 4.4 years of experience and is available immediately. No concerns identified.",
+    "cites": [
+      {
+        "field": "name",
+        "value": "Manjunath Shetty"
+      },
+      {
+        "field": "years_experience",
+        "value": "4.4"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "0"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R149": {
+    "text": "Subhajit Ghosh has 2.4 years of experience and is available immediately. No concerns identified.",
+    "cites": [
+      {
+        "field": "name",
+        "value": "Subhajit Ghosh"
+      },
+      {
+        "field": "years_experience",
+        "value": "2.4"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "0"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R027": {
+    "text": "Basavaraj M has 2.7 years of experience and is based in Bengaluru. The expected salary is not stated.",
+    "cites": [
+      {
+        "field": "name",
+        "value": "Basavaraj M"
+      },
+      {
+        "field": "years_experience",
+        "value": "2.7"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R140": {
+    "text": "Raghavendra K has 4.8 years of experience and is based in Bengaluru. The notice period is not stated.",
+    "cites": [
+      {
+        "field": "name",
+        "value": "Raghavendra K"
+      },
+      {
+        "field": "years_experience",
+        "value": "4.8"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R013": {
+    "text": "The candidate has 4.3 years of experience and an acceptable salary of 13000 INR/month. However, languages are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.3"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "13000"
+      },
+      {
+        "field": "languages",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R116": {
+    "text": "The candidate has 3.8 years of experience and an acceptable salary of 17000 INR/month. However, the location is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.8"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "17000"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R102": {
+    "text": "The candidate has 2.9 years of experience and an acceptable salary of 17000 INR/month. However, the location is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.9"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "17000"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R056": {
+    "text": "The candidate has 1.9 years of experience and relevant skills. However, the expected salary is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.9"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R120": {
+    "text": "The candidate has 4.3 years of experience and lives in Bengaluru. However, the expected salary of 19500 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.3"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "19500"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R044": {
+    "text": "The candidate has 4.2 years of experience and lives in Bengaluru. However, the expected salary is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.2"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R128": {
+    "text": "The candidate meets the experience requirement with 1.0 years. However, the expected salary is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.0"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R100": {
+    "text": "The candidate has 2.2 years of experience and lives in Bengaluru. However, the expected salary and notice period are not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.2"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R063": {
+    "text": "The candidate has 4.7 years of experience and an acceptable salary of 16500 INR/month. However, the notice period is not stated.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.7"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "16500"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R018": {
+    "text": "The candidate has 1.3 years of experience and relevant skills. However, the location is Mysuru, which is outside Bengaluru.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.3"
+      },
+      {
+        "field": "location",
+        "value": "Mysuru"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R150": {
+    "text": "The candidate has 4.4 years of experience and an acceptable salary of 13500 INR/month. However, the notice period of 20 days exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.4"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "13500"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "20"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R057": {
+    "text": "The candidate has 4.6 years of experience and lives in Bengaluru. However, the expected salary of 20000 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.6"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "20000"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R088": {
+    "text": "The candidate has 4.5 years of experience and lives in Bengaluru. However, the expected salary of 32500 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.5"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "32500"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R073": {
+    "text": "The candidate has 2.8 years of experience and an acceptable salary of 15000 INR/month. However, the notice period of 45 days exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.8"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "15000"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "45"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R119": {
+    "text": "The candidate has 4.9 years of experience and lives in Bengaluru. However, the expected salary of 26000 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.9"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "26000"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R113": {
+    "text": "The candidate has 3.5 years of experience and lives in Bengaluru. However, the expected salary of 20000 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "3.5"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "20000"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R093": {
+    "text": "The candidate has 5.7 years of experience and an acceptable salary of 17000 INR/month. However, the previous role of Front Office Assistant is not relevant.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.7"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "17000"
+      },
+      {
+        "field": "job_titles",
+        "value": "[\"Front Office Assistant\", \"Guest Relations Executive\", \"Receptionist\"]"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R058": {
+    "text": "The candidate has 2.8 years of experience and lives in Bengaluru. However, the expected salary of 29000 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "2.8"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "29000"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R138": {
+    "text": "The candidate has 5.2 years of experience and an acceptable salary of 13000 INR/month. However, the notice period of 90 days exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "5.2"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "13000"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "90"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R142": {
+    "text": "The candidate has 4.9 years of experience and lives in Bengaluru. However, the expected salary of 26000 INR/month exceeds the limit.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "4.9"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "26000"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R144": {
+    "text": "The candidate has an acceptable salary of 16500 INR/month and lives in Bengaluru. However, the candidate has 0.0 years of experience.",
+    "cites": [
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "16500"
+      },
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "years_experience",
+        "value": "0.0"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R125": {
+    "text": "The candidate has 1.5 years of experience and relevant skills. However, the location is Indore, which is outside Bengaluru.",
+    "cites": [
+      {
+        "field": "years_experience",
+        "value": "1.5"
+      },
+      {
+        "field": "location",
+        "value": "Indore"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  },
+  "R115": {
+    "text": "The candidate lives in Bengaluru and has relevant skills. However, the candidate has only 0.4 years of experience.",
+    "cites": [
+      {
+        "field": "location",
+        "value": "Bengaluru"
+      },
+      {
+        "field": "years_experience",
+        "value": "0.4"
+      }
+    ],
+    "source": "llm_retry",
+    "rejected": [
+      "no reason returned"
+    ]
+  }
+}

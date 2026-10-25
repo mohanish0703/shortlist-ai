@@ -1,0 +1,36 @@
+{
+  "extraction": {
+    "name": "Pranami Gogoi",
+    "jobs": [
+      {
+        "title": "Delivery Associate",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Delivery Associate",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 3.0,
+    "skills": [
+      "cash handling",
+      "route navigation",
+      "two-wheeler riding",
+      "Google Maps"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Assamese"
+    ],
+    "certifications": [
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 15000,
+    "notice_period_days": 7
+  },
+  "seconds": 17.01
+}

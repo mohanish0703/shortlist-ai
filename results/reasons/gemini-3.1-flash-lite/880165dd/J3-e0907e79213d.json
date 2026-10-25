@@ -1,0 +1,551 @@
+{
+  "R001": {
+    "text": "The candidate is an experienced security guard with 2.2 years of experience and relevant skills.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Guard\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "2.2"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R032": {
+    "text": "The candidate is an experienced security guard with 1.8 years of experience and relevant certifications.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Guard\", \"Security Supervisor\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "1.8"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R147": {
+    "text": "The candidate is an experienced security supervisor with 4.1 years of experience and relevant skills.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Supervisor\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "4.1"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R031": {
+    "text": "The candidate is an experienced security supervisor with 3.3 years of experience. The expected salary is not stated.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Supervisor\", \"Security Guard\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "3.3"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R059": {
+    "text": "The candidate is an experienced security guard with 2.2 years of experience and relevant skills.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Guard\", \"Security Supervisor\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "2.2"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R040": {
+    "text": "The candidate is an experienced security officer with 1.9 years of experience and relevant certifications.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Officer\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "1.9"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R103": {
+    "text": "The candidate is an experienced security supervisor with 1.4 years of experience. The notice period is not stated.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Supervisor\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "1.4"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R006": {
+    "text": "The candidate is a security guard with 1.0 years of experience. The expected salary is not stated.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Guard\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "1.0"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R011": {
+    "text": "The candidate is an experienced security guard with 4.4 years of experience. The location is not stated.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Guard\", \"Security Officer\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "4.4"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R070": {
+    "text": "The candidate is an experienced security guard with 5.4 years of experience. The notice period is 10 days, which exceeds the 7 days allowed.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Guard\", \"Security Supervisor\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "5.4"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "10"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R050": {
+    "text": "The candidate is an experienced security guard with 3.6 years of experience. Languages and notice period are not stated.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Guard\", \"Security Supervisor\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "3.6"
+      },
+      {
+        "field": "languages",
+        "value": "not stated"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R129": {
+    "text": "The candidate is a security officer with relevant skills. The experience is 0.5 years, which is below the 1 year required.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Officer\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "0.5"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R094": {
+    "text": "The candidate is an experienced security supervisor with 5.7 years of experience. Location and languages are not stated.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Supervisor\", \"Security Officer\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "5.7"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      },
+      {
+        "field": "languages",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R096": {
+    "text": "The candidate is an experienced security officer with 2.8 years of experience. The location is not stated.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Officer\", \"Security Guard\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "2.8"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R109": {
+    "text": "The candidate is an experienced security supervisor with 2.0 years of experience. Languages and expected salary are not stated.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Supervisor\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "2.0"
+      },
+      {
+        "field": "languages",
+        "value": "not stated"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R038": {
+    "text": "The candidate is an experienced security supervisor with 2.8 years of experience. The location is not stated and the notice period is 10 days, exceeding the 7 days allowed.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Supervisor\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "2.8"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "10"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R023": {
+    "text": "The candidate is a security supervisor with relevant certifications. The experience is 0.6 years, which is below the 1 year required.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Supervisor\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "0.6"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R067": {
+    "text": "The candidate is a security guard with relevant skills. The experience is 0.8 years, which is below the 1 year required, and the expected salary is not stated.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Guard\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "0.8"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R019": {
+    "text": "The candidate is an experienced professional with 4.8 years of experience. The previous role was as a receptionist, not a security guard, and the location is not stated.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Receptionist\", \"Front Office Assistant\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "4.8"
+      },
+      {
+        "field": "location",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R005": {
+    "text": "The candidate is a security supervisor with relevant certifications. The experience is 0.8 years, which is below the 1 year required, and the notice period is not stated.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Supervisor\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "0.8"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R089": {
+    "text": "The candidate is an experienced professional with 5.0 years of experience. The previous role was as a guest relations executive, not a security guard, and salary and notice period are not stated.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Guest Relations Executive\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "5.0"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "not stated"
+      },
+      {
+        "field": "notice_period_days",
+        "value": "not stated"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R124": {
+    "text": "The candidate is an experienced security officer with 5.3 years of experience. The expected salary of 34500 INR/month exceeds the 20000 allowed.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Officer\", \"Security Guard\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "5.3"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "34500"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R068": {
+    "text": "The candidate is an experienced security officer with 5.1 years of experience. The expected salary of 35000 INR/month exceeds the 20000 allowed.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Officer\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "5.1"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "35000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R053": {
+    "text": "The candidate is an experienced security supervisor with 5.8 years of experience. The expected salary of 24000 INR/month exceeds the 20000 allowed.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Supervisor\", \"Security Officer\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "5.8"
+      },
+      {
+        "field": "expected_salary_monthly_inr",
+        "value": "24000"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R041": {
+    "text": "The candidate is an experienced security guard with 4.7 years of experience. The candidate lives in Kolkata, not Hyderabad.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Guard\", \"Security Supervisor\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "4.7"
+      },
+      {
+        "field": "location",
+        "value": "Kolkata"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R085": {
+    "text": "The candidate is an experienced professional with 5.8 years of experience. The previous role was as a delivery associate, not a security guard.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Delivery Associate\", \"Delivery Executive\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "5.8"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R097": {
+    "text": "The candidate is an experienced security supervisor with 5.7 years of experience. The candidate lives in Jaipur, not Hyderabad.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Security Supervisor\", \"Security Officer\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "5.7"
+      },
+      {
+        "field": "location",
+        "value": "Jaipur"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R148": {
+    "text": "The candidate is an experienced professional with 5.6 years of experience. The previous role was as an office boy, not a security guard.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Office Boy\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "5.6"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R012": {
+    "text": "The candidate is an experienced professional with 5.5 years of experience. The previous role was as a customer support executive, not a security guard.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "[\"Customer Support Executive\"]"
+      },
+      {
+        "field": "years_experience",
+        "value": "5.5"
+      }
+    ],
+    "source": "llm",
+    "rejected": []
+  },
+  "R046": {
+    "text": "Rejected: 0 years vs 1 required; no previous job listed.",
+    "cites": [
+      {
+        "field": "job_titles",
+        "value": "not stated"
+      },
+      {
+        "field": "years_experience",
+        "value": "0"
+      }
+    ],
+    "source": "template",
+    "rejected": [
+      "job_titles is [], not '[]'",
+      "job_titles is [], not '[]'"
+    ]
+  }
+}

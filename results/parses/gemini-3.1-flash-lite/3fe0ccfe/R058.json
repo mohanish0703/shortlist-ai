@@ -1,0 +1,39 @@
+{
+  "extraction": {
+    "name": "Basavaraj Shetty",
+    "jobs": [
+      {
+        "title": "Cleaning Staff",
+        "start": "2024-01",
+        "end": "present"
+      },
+      {
+        "title": "Cleaning Staff",
+        "start": "2023-10",
+        "end": "2023-11"
+      }
+    ],
+    "stated_total_years": 2.8,
+    "skills": [
+      "chemical handling",
+      "machine scrubbing",
+      "laundry",
+      "bed making",
+      "room cleaning",
+      "teamwork"
+    ],
+    "location": "Whitefield, Bangalore",
+    "languages": [
+      "Kannada",
+      "English"
+    ],
+    "certifications": [
+      "Fire Safety Training"
+    ],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": 29000,
+    "notice_period_days": null
+  },
+  "seconds": 2.07
+}

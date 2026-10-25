@@ -1,0 +1,33 @@
+{
+  "extraction": {
+    "name": "Ananya Behera",
+    "jobs": [
+      {
+        "title": "Guest Relations Executive",
+        "start": null,
+        "end": null
+      },
+      {
+        "title": "Front Office Assistant",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 2.75,
+    "skills": [
+      "complaint handling",
+      "email correspondence",
+      "phone handling",
+      "teamwork",
+      "hardworking"
+    ],
+    "location": "Pune",
+    "languages": [],
+    "certifications": [],
+    "education": null,
+    "institution": null,
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": 0
+  },
+  "seconds": 1.42
+}

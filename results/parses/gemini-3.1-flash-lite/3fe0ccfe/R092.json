@@ -1,0 +1,41 @@
+{
+  "extraction": {
+    "name": "Priya Pandian",
+    "jobs": [
+      {
+        "title": "Bike Rider",
+        "start": "2026-08",
+        "end": "present"
+      },
+      {
+        "title": "Delivery Associate",
+        "start": "2025-07",
+        "end": "2026-08"
+      },
+      {
+        "title": "Delivery Boy",
+        "start": "2024-05",
+        "end": "2025-07"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "customer handling",
+      "route navigation",
+      "two-wheeler riding",
+      "parcel handling"
+    ],
+    "location": "Chennai",
+    "languages": [
+      "Tamil"
+    ],
+    "certifications": [
+      "Two-Wheeler Driving Licence"
+    ],
+    "education": "12th",
+    "institution": "Govt. Junior College, Chennai",
+    "expected_salary_monthly_inr": 15500,
+    "notice_period_days": 0
+  },
+  "seconds": 1.75
+}

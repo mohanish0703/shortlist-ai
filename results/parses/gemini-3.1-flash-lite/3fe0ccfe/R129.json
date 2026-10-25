@@ -1,0 +1,34 @@
+{
+  "extraction": {
+    "name": "Shilpa M",
+    "jobs": [
+      {
+        "title": "Security Officer",
+        "start": "2026-01",
+        "end": "2026-07"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "access control",
+      "visitor management",
+      "patrolling",
+      "CCTV monitoring",
+      "fire safety",
+      "punctuality",
+      "hardworking"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Kannada",
+      "English",
+      "Telugu"
+    ],
+    "certifications": [],
+    "education": "12th",
+    "institution": "Model Higher Secondary School, Tumakuru",
+    "expected_salary_monthly_inr": 17500,
+    "notice_period_days": 0
+  },
+  "seconds": 33.39
+}

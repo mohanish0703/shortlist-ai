@@ -1,0 +1,15 @@
+APPLICATION FORM
+
+Candidate Name      : Sachin Patil
+Current City        : Poona
+Contact             : 97XXXXX304 / sachin25@example.com
+Total Experience    : 5.9 years
+
+| Organisation | Designation | From | To |
+| Medilife Diagnostics | Front Office Assistant | June 2021 | Present |
+| Hotel Grand Orchid | Guest Relations Executive | September 2020 | April 2021 |
+
+Languages           : Marathi, Hindi, English (basic)
+Qualification       : B.Sc (Sri Venkateshwara Degree College, Pune)
+Certificates        : Hotel Management diploma, MS Office certificate
+Expected Salary     : 2.58 LPA

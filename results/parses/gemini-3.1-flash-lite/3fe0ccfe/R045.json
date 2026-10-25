@@ -1,0 +1,38 @@
+{
+  "extraction": {
+    "name": "Divya Natarajan",
+    "jobs": [
+      {
+        "title": "Delivery Boy",
+        "start": "2023-04",
+        "end": "present"
+      },
+      {
+        "title": "Delivery Boy",
+        "start": "2022-07",
+        "end": "2023-01"
+      }
+    ],
+    "stated_total_years": null,
+    "skills": [
+      "parcel handling",
+      "route navigation",
+      "Google Maps",
+      "cash handling",
+      "customer handling",
+      "punctuality",
+      "teamwork"
+    ],
+    "location": "Chennai",
+    "languages": [],
+    "certifications": [
+      "Two-Wheeler Driving Licence",
+      "LMV Driving Licence"
+    ],
+    "education": "10th",
+    "institution": "Sri Saraswati Vidya Mandir, Chennai",
+    "expected_salary_monthly_inr": null,
+    "notice_period_days": null
+  },
+  "seconds": 1.7
+}

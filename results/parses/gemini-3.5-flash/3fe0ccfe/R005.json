@@ -1,0 +1,34 @@
+{
+  "extraction": {
+    "name": "Ravi Rao",
+    "jobs": [
+      {
+        "title": "Security Supervisor",
+        "start": null,
+        "end": null
+      }
+    ],
+    "stated_total_years": 0.75,
+    "skills": [
+      "fire safety",
+      "visitor management",
+      "emergency response",
+      "patrolling",
+      "access control"
+    ],
+    "location": "Hyderabad",
+    "languages": [
+      "Telugu",
+      "Hindi"
+    ],
+    "certifications": [
+      "First Aid Training",
+      "PSARA Security Training"
+    ],
+    "education": "10th",
+    "institution": null,
+    "expected_salary_monthly_inr": 18500,
+    "notice_period_days": null
+  },
+  "seconds": 11.79
+}
