@@ -33,8 +33,9 @@ coursework. Tick items off as they land.
       how often parse errors change a check
 - [x] Near-miss slack set per job by the recruiter (`salary_stretch_pct`, `notice_stretch_days`,
       `years_stretch` on `JobRequirement`), not copied from the generator's rule
-- [ ] "Bike Rider" called related, not same, for Delivery Executive: decide whether to fix it
-      in the prompt (would be tuning on the eval set) or leave it to the recruiter review
+- [x] "Bike Rider" called related, not same, for Delivery Executive: left as it is. Fixing it in
+      the prompt would tune on the eval set; it moves 2 scores and no tier, and the README
+      reports it as the LLM's one plain mistake
 
 ## 4. Ranking and explanation node
 - [x] Score, then a short reason per candidate (`shortlist.rank`: tier shortlist / call /
