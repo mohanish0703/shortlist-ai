@@ -13,7 +13,13 @@ import streamlit as st
 
 API = os.environ.get("SHORTLIST_API", "http://127.0.0.1:8000")
 TIER_LABEL = {"shortlist": "Shortlist", "call": "Call to check", "reject": "Reject"}
-STATUS_ICON = {"pass": "✅", "soft": "🟡", "fail": "❌", "unknown": "❔"}
+# Coloured words, not emoji: emoji depend on the viewer's fonts and some do not show.
+STATUS_ICON = {
+    "pass": ":green[**PASS**]",
+    "soft": ":orange[**NEAR MISS**]",
+    "fail": ":red[**FAIL**]",
+    "unknown": ":gray[**UNKNOWN**]",
+}
 
 
 def api(method: str, path: str, **kw):

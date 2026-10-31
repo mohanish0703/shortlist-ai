@@ -83,4 +83,4 @@ api:
 	$(PY) -m uvicorn shortlist.api:app --reload
 
 ui:
-	$(PY) -m streamlit run src/shortlist/ui.py
+	$(PY) -m streamlit run src/shortlist/ui.py --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false
